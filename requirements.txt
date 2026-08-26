@@ -1,0 +1,9 @@
+# torch # torch-gpu
+scikit-learn
+minio
+python-dotenv
+tqdm
+transformers
+openai
+pillow
+ultralytics

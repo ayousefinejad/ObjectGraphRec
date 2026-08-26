@@ -1,0 +1,42 @@
+# ---- credentials -------------------------------------------------------------
+# object-graph/.env holds live MinIO and OpenAI keys. Never commit it; use
+# .env.example as the template.
+.env
+.env.*
+!.env.example
+
+# ---- data & derived artifacts ------------------------------------------------
+# The working tree carries ~28 GB: 803 MB item-graph caches (one per variant), a
+# 2.5 GB MIT Indoor tarball, and 475 MB of extracted image features. None of it
+# belongs in git. data/prepare/ is code and is force-added in the initial commit.
+data/
+**/embeddings/
+*.pt
+*.npy
+*.npz
+*.tar
+*.tar.gz
+*.zip
+*.lmdb
+*.pkl
+
+# ---- run outputs -------------------------------------------------------------
+runs/
+saved/
+log/
+logs/
+recommend_topk/
+*.log
+
+# ---- python ------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# ---- editors / os ------------------------------------------------------------
+.idea/
+.vscode/
+.DS_Store

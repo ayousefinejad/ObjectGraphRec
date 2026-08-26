@@ -1,0 +1,16 @@
+# MMGCN: Wei et al., ACM MM'19. Ported from enoche/MMRec's mmgcn.py -- see models/mmgcn.py's
+# module docstring for what changed (only the object-graph branch; everything else is the
+# unmodified upstream port).
+embedding_size: 64
+n_layers: 1
+# The MMRec repo's own published default for this model family; not tuned here, matching the
+# rest of this study's practice of a single fixed config per architecture rather than a per-model
+# hyperparameter search (CRANE's dropout/reg_weight sweep, the one place this study did search,
+# used the single best cell for every seeded comparison after that -- the same discipline here).
+reg_weight: 0.0001
+
+# Object graph (same convention and key names as CRANE.yaml, so scripts/data files are shared).
+use_object_graph: False
+object_feature_file: 'object_feat.npy'
+
+hyper_parameters: ["seed"]

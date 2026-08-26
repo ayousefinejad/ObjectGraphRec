@@ -1,0 +1,1816 @@
+label,n_items,tier_tau0.6,matched_node,cosine,node_scene_freq,node_degree,in_mit,in_nyu
+pillow,340,exact,Pillow,1.0000,218,202,1,1
+pan,327,exact,Pan,1.0000,84,144,1,1
+blender,260,exact,Blender,1.0000,24,61,1,1
+fan,245,exact,Fan,1.0000,20,66,1,1
+bowl,216,exact,Bowl,1.0000,203,268,1,1
+container,212,exact,Container,1.0000,19,70,1,1
+kettle,196,exact,Kettle,1.0000,65,133,1,1
+cookware set,180,near,Cookware,0.8754,17,65,1,1
+table,173,exact,Table,1.0000,840,522,1,1
+cutting board,161,exact,Cutting board,1.0000,65,135,1,1
+heater,158,exact,Heater,1.0000,2,6,1,1
+coffeemaker,157,near,Coffee maker,0.9391,80,124,1,1
+toaster,157,exact,Toaster,1.0000,20,61,1,1
+shower curtain,156,exact,Shower curtain,1.0000,63,68,1,1
+blanket,151,exact,Blanket,1.0000,178,180,1,1
+tray,128,exact,Tray,1.0000,24,91,1,1
+organizer,121,far,Storage drawer,0.5862,2,8,1,0
+glass,120,exact,Glass,1.0000,110,181,1,1
+mug,114,exact,Mug,1.0000,9,47,1,0
+bag,112,exact,Bag,1.0000,18,69,1,1
+coffee maker,110,exact,Coffee maker,1.0000,80,124,1,1
+basket,106,exact,Basket,1.0000,146,253,1,1
+mattress,103,exact,Mattress,1.0000,4,13,1,1
+towel,101,exact,Towel,1.0000,233,230,1,1
+bottle,99,exact,Bottle,1.0000,82,164,1,1
+mat,99,exact,Mat,1.0000,3,14,1,1
+rice cooker,95,exact,Rice cooker,1.0000,2,12,1,0
+toaster oven,93,exact,Toaster oven,1.0000,1,3,1,0
+cake pan,93,near,Pan,0.8345,84,144,1,1
+shelf,90,exact,Shelf,1.0000,160,255,1,1
+tablecloth,87,exact,Tablecloth,1.0000,54,129,1,1
+oven,86,exact,Oven,1.0000,207,207,1,1
+glasses,83,exact,Glasses,1.0000,42,127,1,1
+mattress pad,80,near,Mattress,0.8238,4,13,1,1
+canvas prints,79,near,Drawing paper,0.6161,1,7,1,0
+scale,79,exact,Scale,1.0000,1,13,1,0
+teapot,79,exact,Teapot,1.0000,20,81,1,1
+jar,77,exact,Jar,1.0000,11,53,1,1
+chair,74,exact,Chair,1.0000,1046,532,1,1
+fry pan,74,near,Frying pan,0.9443,1,17,1,0
+air conditioner,73,exact,Air conditioner,1.0000,32,56,1,1
+food processor,72,far,Kitchen appliance,0.5604,1,6,1,0
+bed sheet set,71,near,Bed cover,0.6825,1,8,1,0
+trash can,70,exact,Trash can,1.0000,63,122,1,1
+thermometer,69,far,Heater,0.5236,2,6,1,1
+ice cube tray,67,near,Tray,0.7000,24,91,1,1
+knife,66,exact,Knife,1.0000,33,97,1,0
+bags,65,near,Bag,0.8674,18,69,1,1
+tv stand,63,exact,Tv stand,1.0000,6,19,1,1
+microwave,62,exact,Microwave,1.0000,240,232,1,1
+bowls,61,exact,Bowls,1.0000,19,80,1,1
+cabinet,61,exact,Cabinet,1.0000,745,415,1,1
+caddy,60,far,Taxidermy,0.4649,1,8,1,0
+measuring cup,60,near,Cup,0.7069,103,191,1,1
+cup,59,exact,Cup,1.0000,103,191,1,1
+loaf pan,58,near,Bread,0.7572,12,70,1,0
+holder,57,near,Cup holder,0.7271,1,6,1,0
+muffin pan,57,near,Pan,0.7536,84,144,1,1
+mattress topper,55,near,Mattress,0.7579,4,13,1,1
+baking mat,55,near,Mat,0.6476,3,14,1,1
+vacuum bags,55,near,Vacuum cleaner,0.7252,1,6,1,0
+bakeware,54,near,Cookware,0.6896,17,65,1,1
+rack,50,exact,Rack,1.0000,1,8,1,0
+dispenser,49,near,Water dispenser,0.8757,1,8,1,0
+bed,47,exact,Bed,1.0000,764,316,1,1
+slow cooker,46,near,Cooker,0.8448,1,8,1,0
+towels,46,exact,Towels,1.0000,36,87,1,1
+dutch oven,45,near,Oven,0.7446,207,207,1,1
+desk,45,exact,Desk,1.0000,122,145,1,1
+cart,44,exact,Cart,1.0000,3,21,1,1
+cookware,44,exact,Cookware,1.0000,17,65,1,1
+measuring cups,44,near,Cups,0.7520,16,86,1,1
+french press,42,far,French doors,0.5176,1,5,1,0
+wine rack,40,exact,Wine rack,1.0000,16,65,1,1
+dish,40,exact,Dish,1.0000,54,104,1,1
+bottle opener,40,near,Glass bottle,0.6489,3,16,1,1
+knife set,40,near,Knives,0.7518,5,36,1,0
+bed frame,40,near,Bed canopy,0.7569,1,9,1,0
+pot,40,exact,Pot,1.0000,82,147,1,1
+towel set,40,near,Towel,0.7986,233,230,1,1
+bath mat,39,exact,Bath mat,1.0000,24,37,1,1
+dehydrator,39,far,Water bottle,0.4896,14,65,1,1
+strainer,39,exact,Strainer,1.0000,1,9,1,0
+plate,38,exact,Plate,1.0000,156,215,1,1
+pitcher,36,exact,Pitcher,1.0000,9,53,1,0
+carafe,36,near,Coffee maker,0.6688,80,124,1,1
+mixing bowl,35,near,Bowl,0.7022,203,268,1,1
+decanter,34,exact,Decanter,1.0000,3,9,1,1
+baking cups,34,near,Cups,0.6841,16,86,1,1
+ottoman,34,exact,Ottoman,1.0000,28,70,1,1
+rug,33,exact,Rug,1.0000,435,336,1,1
+storage box,33,exact,Storage box,1.0000,12,52,1,0
+dish rack,33,exact,Dish rack,1.0000,52,124,1,1
+butter dish,32,near,Dish,0.7444,54,104,1,1
+filter,32,far,Block,0.4411,1,4,1,0
+tumbler,32,near,Plunger,0.6340,3,6,1,1
+grill,31,far,Stove,0.5762,413,277,1,1
+utensil set,31,near,Utensils,0.8441,26,78,1,1
+quilt set,31,near,Quilt,0.8177,26,53,1,1
+lunch box,31,near,Boxes,0.6567,7,29,1,1
+mattress protector,31,near,Mattress,0.6760,4,13,1,1
+cutlery set,30,near,Cutlery,0.8078,15,61,1,1
+mugs,30,exact,Mugs,1.0000,5,27,1,1
+pizza pan,29,near,Pan,0.7988,84,144,1,1
+bench,29,exact,Bench,1.0000,23,79,1,1
+sauce pan,29,near,Pan,0.7965,84,144,1,1
+bedding,29,exact,Bedding,1.0000,109,106,1,1
+chopper,28,far,Toy helicopter,0.5962,1,12,1,0
+cover,28,near,Bed cover,0.7156,1,8,1,0
+stock pot,28,near,Pot,0.7468,82,147,1,1
+storage bags,27,near,Storage containers,0.6883,2,8,0,1
+microwave oven,27,near,Microwave,0.8717,240,232,1,1
+jar opener,27,near,Jar,0.7714,11,53,1,1
+vacuum cleaner,27,exact,Vacuum cleaner,1.0000,1,6,1,0
+cleaner,27,exact,Cleaner,1.0000,1,13,1,0
+bed skirt,26,near,Bedskirt,0.8593,1,3,0,1
+grill pan,26,near,Pan,0.7682,84,144,1,1
+cooker,26,exact,Cooker,1.0000,1,8,1,0
+mold,26,far,Cheese,0.4892,2,20,1,0
+oven mitt,26,near,Oven,0.6682,207,207,1,1
+soap dispenser,25,exact,Soap dispenser,1.0000,43,75,1,1
+bedspread,25,exact,Bedspread,1.0000,39,60,1,1
+spice rack,25,exact,Spice rack,1.0000,2,8,1,0
+steamer,25,near,Cooker,0.6042,1,8,1,0
+shower curtain liner,25,near,Shower curtain,0.8725,63,68,1,1
+plunger,24,exact,Plunger,1.0000,3,6,1,1
+lid,24,near,Plastic lid,0.8189,1,5,0,1
+box,24,exact,Box,1.0000,30,95,1,1
+bowl set,24,near,Bowls,0.8167,19,80,1,1
+skillet,24,exact,Skillet,1.0000,1,7,1,0
+bread box,23,near,Bread,0.7975,12,70,1,0
+carpet cleaner,23,near,Carpet,0.8271,33,64,1,1
+drawer,23,exact,Drawer,1.0000,56,107,1,1
+scoop,23,far,Bucket,0.5914,3,15,1,0
+baking dish,22,near,Dish,0.7061,54,104,1,1
+timer,22,near,Clock,0.6120,66,149,1,1
+coffee filter,22,near,Coffee maker,0.7264,80,124,1,1
+spatula,22,exact,Spatula,1.0000,1,9,1,0
+pot rack,22,near,Rack,0.7612,1,8,1,0
+vacuum,21,near,Vacuum cleaner,0.8498,1,6,1,0
+vacuum bag,21,near,Vacuum cleaner,0.7412,1,6,1,0
+tote bag,21,near,Bag,0.7400,18,69,1,1
+coffee press,21,near,Coffee machine,0.7579,2,14,1,0
+pillows,21,exact,Pillows,1.0000,73,111,1,1
+cooktop,21,exact,Cooktop,1.0000,18,58,1,1
+shelf liner,21,near,Shelf,0.7019,160,255,1,1
+napkins,21,exact,Napkins,1.0000,2,16,1,1
+toothbrush holder,20,exact,Toothbrush holder,1.0000,5,22,1,1
+frying pan,20,exact,Frying pan,1.0000,1,17,1,0
+chest,20,exact,Chest,1.0000,17,45,1,1
+paper towel holder,20,exact,Paper towel holder,1.0000,4,21,1,1
+bookcase,20,exact,Bookcase,1.0000,8,32,1,0
+bundt pan,20,near,Pan,0.6654,84,144,1,1
+espresso maker,20,near,Coffee maker,0.6822,80,124,1,1
+toilet brush,19,near,Toilet,0.6948,214,145,1,1
+plates,19,exact,Plates,1.0000,90,175,1,1
+baskets,19,exact,Baskets,1.0000,3,26,1,0
+brush,19,near,Scrub brush,0.8188,1,4,1,0
+peeler,19,far,Platter,0.5233,5,39,1,0
+sheet set,19,near,Sheet,0.8089,2,8,1,0
+bag clips,19,near,Bag,0.6843,18,69,1,1
+shower caddy,18,near,Shower,0.6588,55,66,1,1
+grater,18,far,Pumpkin,0.4025,1,5,1,0
+shower rod,18,near,Shower curtain rod,0.8688,1,5,0,1
+soap dish,18,exact,Soap dish,1.0000,28,57,1,1
+spoon,18,exact,Spoon,1.0000,24,83,1,0
+tote,18,far,Bag,0.4057,18,69,1,1
+glassware,18,exact,Glassware,1.0000,21,72,1,1
+wine glasses,18,exact,Wine glasses,1.0000,1,9,0,1
+splatter screen,18,near,Screen,0.6357,13,35,1,1
+stool,18,exact,Stool,1.0000,65,156,1,1
+dish drainer,18,near,Dish,0.7125,54,104,1,1
+pillow protector,18,near,Pillow,0.7679,218,202,1,1
+hamper,17,near,Hammock,0.7851,1,7,1,0
+soap pump,17,near,Soap,0.7430,48,94,1,1
+utensil holder,17,exact,Utensil holder,1.0000,13,46,1,1
+stand,17,exact,Stand,1.0000,3,16,1,0
+saucepan,17,near,Saucer,0.7267,4,19,1,0
+roaster oven,17,near,Oven,0.7933,207,207,1,1
+recliner,16,exact,Recliner,1.0000,4,14,1,1
+mattress cover,16,near,Bed cover,0.8470,1,8,1,0
+cutlery,16,exact,Cutlery,1.0000,15,61,1,1
+pillow cover,16,near,Pillow,0.8302,218,202,1,1
+cups,16,exact,Cups,1.0000,16,86,1,1
+hooks,16,near,Wall hooks,0.7824,1,5,1,0
+griddle,16,far,Pan,0.4983,84,144,1,1
+shower curtain rings,16,near,Shower curtain,0.7827,63,68,1,1
+containers,16,exact,Containers,1.0000,3,12,1,1
+water bottle,16,exact,Water bottle,1.0000,14,65,1,1
+scraper,16,far,Strainer,0.4788,1,9,1,0
+poster,15,exact,Poster,1.0000,12,40,1,0
+coffee table,15,exact,Coffee table,1.0000,577,306,1,1
+stopper,15,far,Shaker,0.4450,1,9,1,0
+bento box,15,near,Box,0.6545,30,95,1,1
+percolator,14,far,Coffee pot,0.5723,4,27,1,0
+sifter,14,far,Shaker,0.5058,1,9,1,0
+measuring cup set,14,near,Cup,0.6169,103,191,1,1
+canister,14,exact,Canister,1.0000,9,43,1,0
+magnet,14,far,Light,0.4359,39,72,1,1
+laundry bag,14,near,Laundry basket,0.7859,6,35,1,1
+ice tray,14,near,Tray,0.7820,24,91,1,1
+headboard,14,exact,Headboard,1.0000,4,16,1,0
+coffee brewer,14,near,Coffee maker,0.8450,80,124,1,1
+wine glass,14,exact,Wine glass,1.0000,7,40,1,0
+mixing bowls,14,near,Bowls,0.7060,19,80,1,1
+bath rug set,14,near,Rugs,0.7439,1,4,0,1
+divider,13,far,Calculator,0.4515,1,3,1,0
+pot holder,13,near,Pot,0.7247,82,147,1,1
+bottles,13,exact,Bottles,1.0000,26,91,1,1
+oven mitts,13,near,Ovens,0.6633,1,10,1,0
+shot glass,13,near,Glass,0.7816,110,181,1,1
+storage container,13,exact,Storage container,1.0000,1,6,1,0
+bath rug,13,near,Rug,0.8174,435,336,1,1
+slicer,13,near,Platter,0.6747,5,39,1,0
+pie pan,13,near,Pan,0.8097,84,144,1,1
+espresso machine,13,near,Coffee machine,0.7218,2,14,1,0
+baking pan,13,near,Pan,0.7690,84,144,1,1
+filters,12,far,Canisters,0.4112,2,8,1,1
+sofa,12,exact,Sofa,1.0000,596,297,1,1
+pillow cases,12,near,Pillows,0.8168,73,111,1,1
+shower curtain hooks,12,near,Shower curtain,0.7964,63,68,1,1
+sweeper,12,near,Broom,0.6988,2,15,1,0
+towel holder,12,exact,Towel holder,1.0000,15,29,1,1
+air bed,12,near,Beds,0.7123,3,15,1,1
+food storage set,12,near,Food container,0.6891,1,9,1,0
+table runner,12,exact,Table runner,1.0000,4,23,1,0
+hook,12,far,Wall hooks,0.5991,1,5,1,0
+gasket,12,far,Gas burner,0.5412,1,8,1,0
+pressure cooker,12,near,Cooker,0.7483,1,8,1,0
+cushion,12,exact,Cushion,1.0000,99,137,1,1
+jars,12,exact,Jars,1.0000,1,6,1,0
+storage bag,12,near,Bag,0.7468,18,69,1,1
+shot glasses,11,near,Glasses,0.8125,42,127,1,1
+speaker stands,11,near,Speaker,0.7153,9,31,1,1
+hanger,11,exact,Hanger,1.0000,2,11,1,0
+liner,11,near,Carriage,0.6201,1,5,1,0
+towel rack,11,exact,Towel rack,1.0000,16,40,1,1
+storage,11,near,Storage unit,0.8033,2,12,1,0
+sink mat,11,near,Sinks,0.6639,5,32,1,1
+bar stool,11,exact,Bar stool,1.0000,34,79,1,1
+vacuum sealer,11,near,Vacuum cleaner,0.7066,1,6,1,0
+parchment paper,11,near,Paper,0.6726,16,59,1,1
+cutter,11,near,Knife,0.6480,33,97,1,0
+pillow case,11,near,Pillow,0.7872,218,202,1,1
+shaker,11,exact,Shaker,1.0000,1,9,1,0
+salt box,10,near,Salt,0.7362,2,21,1,0
+fireplace,10,exact,Fireplace,1.0000,247,216,1,1
+food jar,10,near,Jars,0.7973,1,6,1,0
+sharpener,10,far,Knife,0.5750,33,97,1,0
+coffee filters,10,near,Coffee cups,0.6698,1,9,1,0
+bookshelf,10,exact,Bookshelf,1.0000,167,233,1,1
+kitchen cart,10,near,Cart,0.8418,3,21,1,1
+laundry sorter,10,near,Laundry basket,0.7250,6,35,1,1
+tea set,10,exact,Tea set,1.0000,8,32,1,1
+frame,10,exact,Frame,1.0000,9,28,1,1
+fryer,10,near,Frying pan,0.6562,1,17,1,0
+faucet,10,exact,Faucet,1.0000,119,160,1,1
+wok,10,far,Well,0.3736,1,6,1,0
+wine opener,10,near,Wine glass,0.6619,7,40,1,0
+tea infuser,10,near,Teapot,0.6311,20,81,1,1
+bedskirt,10,exact,Bedskirt,1.0000,1,3,0,1
+table set,10,near,Table,0.8031,840,522,1,1
+saute pan,10,near,Pan,0.7527,84,144,1,1
+coat rack,10,exact,Coat rack,1.0000,3,11,1,0
+popcorn popper,10,far,Corn,0.5133,1,16,1,0
+humidifier,10,far,Dryer,0.5171,2,13,1,0
+pie plate,10,near,Plate,0.7906,156,215,1,1
+bread pan,10,near,Bread,0.8170,12,70,1,0
+mixer,10,exact,Mixer,1.0000,5,30,1,0
+lunch bag,10,near,Bag,0.7199,18,69,1,1
+comforter set,10,near,Comforter,0.8312,1,7,1,0
+corkscrew,9,far,Wine bottle,0.4701,11,61,1,1
+food containers,9,near,Food container,0.9346,1,9,1,0
+utensil,9,exact,Utensil,1.0000,1,11,0,1
+nightstand,9,exact,Nightstand,1.0000,324,162,1,1
+bath sheet,9,near,Bath mat,0.7271,24,37,1,1
+soap saver,9,near,Soap,0.6965,48,94,1,1
+warmer,9,far,Heater,0.5193,2,6,1,1
+sheet pan,9,near,Pan,0.8151,84,144,1,1
+comforter,9,exact,Comforter,1.0000,1,7,1,0
+shelving unit,9,exact,Shelving unit,1.0000,18,65,1,1
+storage containers,9,exact,Storage containers,1.0000,2,8,0,1
+coffee percolator,9,near,Coffee maker,0.7406,80,124,1,1
+bed risers,9,near,Beds,0.6926,3,15,1,1
+dresser,9,exact,Dresser,1.0000,229,158,1,1
+drying rack,9,near,Towel rack,0.6555,16,40,1,1
+stools,9,exact,Stools,1.0000,12,49,1,1
+juicer,9,near,Juice jug,0.6943,1,8,1,0
+crock,9,near,Crockery,0.8774,1,9,1,0
+step stool,9,exact,Step stool,1.0000,3,15,1,1
+carousel,9,near,Slide,0.6112,7,30,1,0
+cookbook holder,8,near,Cookbook,0.7912,8,38,1,1
+bunk bed,8,exact,Bunk bed,1.0000,11,31,1,1
+meat grinder,8,near,Coffee grinder,0.7288,1,8,1,0
+shelves,8,exact,Shelves,1.0000,23,88,1,1
+measuring set,8,far,Scale,0.4179,1,13,1,0
+steam cleaner,8,near,Cleaner,0.6974,1,13,1,0
+utensils,8,exact,Utensils,1.0000,26,78,1,1
+wastebasket,8,exact,Wastebasket,1.0000,6,23,1,1
+waste basket,8,exact,Waste basket,1.0000,1,6,1,0
+flatware set,8,near,Kitchenware,0.6522,20,47,0,1
+futon,8,far,Cot,0.5513,1,5,1,0
+food slicer,8,near,Platter,0.6380,5,39,1,0
+food storage container,8,near,Food container,0.9071,1,9,1,0
+egg cup,8,near,Eggs,0.7335,1,8,1,0
+vanity set,8,near,Vanity,0.8217,12,28,1,1
+turntable,8,far,Table,0.5318,840,522,1,1
+mop,8,near,Mop bucket,0.7534,1,9,1,0
+opener,8,near,Door,0.6366,117,181,1,0
+mixing bowl set,8,near,Bowls,0.6103,19,80,1,1
+food storage containers,8,near,Storage containers,0.8644,2,8,0,1
+food mill,8,far,Corn,0.5612,1,16,1,0
+food chopper,8,far,Food items,0.5720,1,2,1,0
+casserole dish,8,near,Dish,0.7092,54,104,1,1
+casserole,8,far,Oven,0.5639,207,207,1,1
+colander,8,far,Sink,0.5262,801,403,1,1
+luggage rack,8,exact,Luggage rack,1.0000,1,5,1,0
+pastry bag,8,near,Pastry,0.7936,1,10,1,0
+oven liner,8,near,Oven,0.6610,207,207,1,1
+crock pot,8,near,Crockery,0.8136,1,9,1,0
+storage chest,8,near,Storage container,0.7282,1,6,1,0
+radiator,8,exact,Radiator,1.0000,36,90,1,1
+pump,8,far,Drain,0.5137,4,6,1,1
+sugar bowl,8,exact,Sugar bowl,1.0000,1,6,1,0
+tongs,8,near,Spoons,0.6485,1,8,1,0
+pillowcase,7,near,Pillow,0.7875,218,202,1,1
+pastry mat,7,near,Pastry,0.7913,1,10,1,0
+room divider,7,far,Flooring,0.4959,1,10,1,0
+refrigerator,7,exact,Refrigerator,1.0000,349,269,1,1
+jug,7,exact,Jug,1.0000,5,30,1,0
+knife bar,7,near,Knife rack,0.7523,1,9,1,0
+laundry basket,7,exact,Laundry basket,1.0000,6,35,1,1
+dish cloth,7,near,Dishcloth,0.8636,1,8,1,0
+kitchen scale,7,near,Scale,0.7188,1,13,1,0
+bottle caps,7,near,Bottles,0.7690,26,91,1,1
+dehumidifier,7,far,Air conditioner,0.5088,32,56,1,1
+dining set,7,near,Dining table,0.7874,109,151,1,1
+shower liner,7,near,Shower curtain,0.7736,63,68,1,1
+food container,7,exact,Food container,1.0000,1,9,1,0
+airbed,7,far,Daybed,0.5952,1,5,1,0
+air purifier,7,near,Air conditioner,0.6704,32,56,1,1
+cookie pan,7,near,Cookies,0.7375,1,9,1,0
+shelving,7,exact,Shelving,1.0000,3,13,1,1
+shelving system,7,near,Shelving unit,0.9050,18,65,1,1
+sink protector,7,near,Sink,0.6726,801,403,1,1
+cap,7,far,Hats,0.5934,1,7,1,0
+shower curtain rod,7,exact,Shower curtain rod,1.0000,1,5,0,1
+cooling rack,7,near,Rack,0.7192,1,8,1,0
+cookie cutter,7,near,Cookies,0.6855,1,9,1,0
+pillow encasement,7,near,Pillow,0.7543,218,202,1,1
+cookie jar,7,near,Cookies,0.7219,1,9,1,0
+carpet washer,7,near,Carpet,0.7407,33,64,1,1
+shakers,7,near,Shaker,0.9072,1,9,1,0
+brewer,7,near,Coffee maker,0.6310,80,124,1,1
+screen,7,exact,Screen,1.0000,13,35,1,1
+muffin cups,7,near,Cups,0.7075,16,86,1,1
+sponge holder,7,near,Sponge,0.7575,7,30,1,1
+canisters,7,exact,Canisters,1.0000,2,8,1,1
+canister set,7,exact,Canister set,1.0000,1,8,1,0
+bar stools,7,exact,Bar stools,1.0000,11,53,1,1
+funnel,7,far,Jug,0.5406,5,30,1,0
+towel warmer,7,near,Towel,0.7785,233,230,1,1
+frother,7,far,Freezer,0.5151,1,11,1,0
+wash bag,7,near,Bag,0.6760,18,69,1,1
+baking cup,7,near,Cup,0.6480,103,191,1,1
+egg poacher,7,near,Eggs,0.6318,1,8,1,0
+bath set,7,near,Bath,0.7426,1,6,0,1
+stockpot,6,near,Stocking,0.6478,2,14,1,0
+storage bin,6,exact,Storage bin,1.0000,8,47,1,0
+soap,6,exact,Soap,1.0000,48,94,1,1
+bottle stopper,6,near,Bottle,0.6836,82,164,1,1
+dish cloths,6,near,Dishcloth,0.8435,1,8,1,0
+tart pan,6,near,Pan,0.7381,84,144,1,1
+wine cooler,6,exact,Wine cooler,1.0000,1,9,1,0
+aerator,6,far,Decanter,0.4299,3,9,1,1
+cloth,6,exact,Cloth,1.0000,4,33,1,1
+robot,6,far,Toy,0.5162,25,88,1,1
+hot pot,6,near,Pot,0.7978,82,147,1,1
+cutlery tray,6,near,Cutlery holder,0.7612,2,13,1,0
+cruet,6,near,Croissant,0.6346,1,9,1,0
+multi cooker,6,near,Cooker,0.7940,1,8,1,0
+bed sheets,6,near,Bedding,0.7203,109,106,1,1
+quilt,6,exact,Quilt,1.0000,26,53,1,1
+garment bag,6,near,Bag,0.7115,18,69,1,1
+chairs,6,exact,Chairs,1.0000,246,271,1,1
+hangers,6,near,Hanger,0.9379,2,11,1,0
+tissue box,6,exact,Tissue box,1.0000,17,56,1,1
+tool,6,near,Tool set,0.6872,1,9,1,0
+donut pan,6,near,Pan,0.7056,84,144,1,1
+fondue pot,6,near,Decorative pot,0.6489,4,22,1,0
+cookbook stand,6,near,Cookbook,0.7641,8,38,1,1
+canvas print,6,near,Drawing paper,0.6099,1,7,1,0
+shopping bag,6,near,Bag,0.7960,18,69,1,1
+coffee urn,6,near,Coffee pot,0.6689,4,27,1,0
+pans,6,exact,Pans,1.0000,4,29,1,0
+pan set,6,near,Pans,0.8361,4,29,1,0
+coffee pot,6,exact,Coffee pot,1.0000,4,27,1,0
+fork,6,exact,Fork,1.0000,29,90,1,0
+vacuum cleaner bags,6,near,Vacuum cleaner,0.7538,1,6,1,0
+wash cloth,6,near,Washcloth,0.8776,3,17,1,0
+egg cooker,6,near,Cooker,0.8239,1,8,1,0
+glove,6,exact,Glove,1.0000,1,18,1,0
+bake cups,5,near,Cups,0.7072,16,86,1,1
+bake pan,5,near,Pan,0.7738,84,144,1,1
+baker,5,far,Bread,0.5262,12,70,1,0
+plate cover,5,near,Plate,0.7804,156,215,1,1
+end table,5,exact,End table,1.0000,4,15,1,0
+shoe rack,5,exact,Shoe rack,1.0000,1,6,1,0
+filter papers,5,near,Papers,0.6004,1,4,0,1
+flask,5,far,Water bottle,0.4453,14,65,1,1
+can opener,5,far,Cans,0.5355,1,3,1,0
+neck pillow,5,near,Pillow,0.8250,218,202,1,1
+sheet,5,exact,Sheet,1.0000,2,8,1,0
+squeeze bottle,5,near,Bottle,0.6921,82,164,1,1
+coffee grinder,5,exact,Coffee grinder,1.0000,1,8,1,0
+shopping cart,5,exact,Shopping cart,1.0000,1,8,1,0
+mylar bags,5,near,Bag,0.6582,18,69,1,1
+contact paper,5,near,Paper,0.7268,16,59,1,1
+separator,5,far,Carriage,0.4682,1,5,1,0
+shaker set,5,near,Shaker,0.7398,1,9,1,0
+speaker stand,5,near,Music stand,0.7266,1,11,1,0
+soap holder,5,near,Soap dispenser,0.7667,43,75,1,1
+cupcake box,5,near,Box,0.6836,30,95,1,1
+mattress encasement,5,near,Mattress,0.6780,4,13,1,1
+book,5,exact,Book,1.0000,48,102,1,1
+storage bins,5,exact,Storage bins,1.0000,2,10,1,0
+dining table,5,exact,Dining table,1.0000,109,151,1,1
+table and chair set,5,near,Chairs,0.6901,246,271,1,1
+knife block,5,exact,Knife block,1.0000,6,26,1,0
+dough blender,5,far,Blender,0.5942,24,61,1,1
+ice cube trays,5,near,Tray,0.6383,24,91,1,1
+ice ball maker,5,near,Ice bucket,0.6599,2,10,1,0
+bottle stoppers,5,near,Bottles,0.7231,26,91,1,1
+spoons,5,exact,Spoons,1.0000,1,8,1,0
+tension rod,5,near,Rope,0.6100,2,6,1,0
+bean bag chair,5,exact,Bean bag chair,1.0000,1,6,1,0
+tissue holder,5,exact,Tissue holder,1.0000,1,7,1,0
+tissue box cover,5,near,Tissue box,0.8403,17,56,1,1
+drainer,5,near,Drain,0.8738,4,6,1,1
+stove,5,exact,Stove,1.0000,413,277,1,1
+dish pan,5,near,Pan,0.8158,84,144,1,1
+grinder,5,near,Coffee grinder,0.8878,1,8,1,0
+garlic press,5,far,Spoon,0.4833,24,83,1,0
+placemat,5,near,Placemats,0.9479,2,10,1,0
+pot holders,5,near,Pots,0.7291,19,72,1,1
+bag holder,5,near,Bag,0.7620,18,69,1,1
+pizza tray,5,near,Tray,0.8015,24,91,1,1
+pie dish,5,near,Dish,0.8063,54,104,1,1
+ice pop maker,5,far,Freezer,0.5730,1,11,1,0
+drawer unit,5,near,Drawer,0.8730,56,107,1,1
+dishrack,5,exact,Dishrack,1.0000,3,20,1,0
+pillow covers,4,near,Pillows,0.8074,73,111,1,1
+conditioner,4,exact,Conditioner,1.0000,7,21,1,1
+cooler,4,far,Wine cooler,0.5861,1,9,1,0
+scissors,4,far,Cutting board,0.5747,65,135,1,1
+bread maker,4,near,Bread,0.8318,12,70,1,0
+spoon rest,4,near,Spoon,0.8450,24,83,1,0
+corer,4,far,Saucer,0.4863,4,19,1,0
+futon frame,4,near,Frame,0.6811,9,28,1,1
+canner,4,far,Candelabra,0.5378,2,12,1,0
+towel bar,4,exact,Towel bar,1.0000,2,8,1,0
+furniture,4,exact,Furniture,1.0000,2,7,0,1
+fry basket,4,near,Basket,0.7604,146,253,1,1
+vanity,4,exact,Vanity,1.0000,12,28,1,1
+toothbrush stand,4,near,Toothbrush holder,0.8477,5,22,1,1
+wall art,4,exact,Wall art,1.0000,84,151,1,1
+laundry cart,4,near,Laundry basket,0.8364,6,35,1,1
+curtain rod,4,near,Shower curtain rod,0.8974,1,5,0,1
+ice ball mold,4,far,Ice bucket,0.5646,2,10,1,0
+ice ball tray,4,near,Tray,0.6997,24,91,1,1
+ladle,4,far,Utensil,0.4470,1,11,0,1
+straws,4,near,Plastic straws,0.8392,1,6,1,0
+table and chairs set,4,near,Dining chairs,0.7408,2,13,1,0
+blade,4,near,Knife,0.8024,33,97,1,0
+tea maker,4,near,Tea pot,0.7937,1,9,1,0
+knives,4,exact,Knives,1.0000,5,36,1,0
+tapestry,4,exact,Tapestry,1.0000,3,13,1,1
+kooler,4,far,Shaker,0.5219,1,9,1,0
+tea bag squeezer,4,far,Bag,0.5807,18,69,1,1
+dish mat,4,near,Dish,0.7442,54,104,1,1
+hose,4,far,Faucet,0.5520,119,160,1,1
+ice pop molds,4,far,Ice bucket,0.4598,2,10,1,0
+duvet cover set,4,near,Duvet,0.7300,6,25,1,0
+recipe box,4,far,Box,0.5754,30,95,1,1
+clock,4,exact,Clock,1.0000,66,149,1,1
+recipe book,4,near,Cookbook,0.7623,8,38,1,1
+air mattress,4,near,Mattress,0.7437,4,13,1,1
+yogurt maker,4,far,Coffee maker,0.5110,80,124,1,1
+clip,4,far,Photograph,0.4472,10,46,1,0
+coasters,4,near,Coaster,0.9225,1,10,1,0
+protector,4,far,Block,0.4875,1,4,1,0
+drain stopper,4,near,Drain,0.6964,4,6,1,1
+pillow sham,4,near,Pillow,0.7832,218,202,1,1
+hand blender,4,near,Blender,0.6748,24,61,1,1
+tissue box holder,4,near,Tissue holder,0.8817,1,7,1,0
+teapot warmer,4,near,Teapot,0.8197,20,81,1,1
+storage unit,4,exact,Storage unit,1.0000,2,12,1,0
+hot plate,4,near,Plate,0.7977,156,215,1,1
+magazine rack,4,near,Rack,0.7809,1,8,1,0
+bowl cover,4,near,Bowl,0.7369,203,268,1,1
+deep fryer,4,near,Frying pan,0.6169,1,17,1,0
+dinnerware,4,near,Kitchenware,0.8590,20,47,0,1
+lids,4,near,Plastic lid,0.7336,1,5,0,1
+k cup,4,near,Cup,0.7651,103,191,1,1
+straw,4,near,Plastic straws,0.7466,1,6,1,0
+crockpot,4,near,Crockery,0.8329,1,9,1,0
+medicine cabinet,4,near,Cabinet,0.7262,745,415,1,1
+book rack,4,near,Rack,0.7878,1,8,1,0
+cupcake pan,4,near,Pan,0.7842,84,144,1,1
+mirror,4,exact,Mirror,1.0000,455,318,1,1
+broiler pan,4,near,Pan,0.7173,84,144,1,1
+buffet server,4,near,Buffet,0.8518,7,41,1,0
+paper,4,exact,Paper,1.0000,16,59,1,1
+box spring,4,far,Box,0.5996,30,95,1,1
+spiralizer,4,far,Guitar,0.4319,5,15,1,1
+paper holder,4,exact,Paper holder,1.0000,1,3,1,0
+attachment,4,far,Towel holder,0.4473,15,29,1,1
+shower hooks,4,near,Wall hooks,0.6996,1,5,1,0
+shelf dividers,4,near,Shelves,0.7147,23,88,1,1
+cookie sheet,4,near,Cookies,0.7626,1,9,1,0
+canning jar,4,near,Jars,0.7621,1,6,1,0
+shower ring,4,near,Shower,0.7064,55,66,1,1
+wine aerator,4,near,Wine,0.6505,2,16,1,0
+food covers,4,near,Food items,0.6045,1,2,1,0
+food steamer,4,near,Cooker,0.6082,1,8,1,0
+water filter,4,far,Water heater,0.5462,1,6,1,0
+spice organizer,4,near,Spice rack,0.7038,2,8,1,0
+mug warmer,4,near,Mug,0.7954,9,47,1,0
+sink strainer,4,near,Strainer,0.7942,1,9,1,0
+bean bag,4,exact,Bean bag,1.0000,7,37,1,1
+mattress bag,3,near,Mattress,0.7220,4,13,1,1
+mats,3,near,Mat,0.8268,3,14,1,1
+storage bench,3,near,Storage unit,0.6658,2,12,1,0
+curtain,3,exact,Curtain,1.0000,222,214,1,1
+stirrer,3,near,Stir sticks,0.6265,1,11,1,0
+sponge,3,exact,Sponge,1.0000,7,30,1,1
+cutting mat,3,near,Mat,0.6789,3,14,1,1
+microwave cover,3,near,Microwave,0.7625,240,232,1,1
+measuring spoons,3,near,Spoons,0.7480,1,8,1,0
+spice bottle,3,near,Spice jar,0.7947,1,8,1,0
+credenza,3,far,Crib,0.4633,19,60,1,1
+media cabinet,3,near,Cabinet,0.7103,745,415,1,1
+butter pot,3,near,Pot,0.6918,82,147,1,1
+burner covers,3,far,Gas burner,0.5619,1,8,1,0
+sink saddle,3,near,Saddle,0.7557,1,11,1,0
+mortar and pestle,3,far,Brick wall,0.4596,2,8,1,0
+panini pan,3,near,Pan,0.8668,84,144,1,1
+sharpening steel,3,far,Chopping knife,0.5329,1,13,1,0
+coffee pod,3,near,Coffee machine,0.7803,2,14,1,0
+carboy,3,far,Car toy,0.5271,1,7,1,0
+night stand,3,near,Stand,0.6289,3,16,1,0
+pie pans,3,near,Pans,0.8127,4,29,1,0
+cooler bag,3,near,Bag,0.7704,18,69,1,1
+pillow insert,3,near,Pillow,0.7951,218,202,1,1
+steam mop,3,near,Mop bucket,0.6861,1,9,1,0
+squeegee,3,far,Waterfall,0.3782,1,4,1,0
+roaster,3,near,Cooker,0.6490,1,8,1,0
+saucepot,3,near,Saucer,0.7385,4,19,1,0
+steamer basket,3,near,Basket,0.6645,146,253,1,1
+banneton,3,far,Banister,0.5051,1,6,1,0
+baking sheet,3,near,Sheet,0.6267,2,8,1,0
+valet,3,far,Cart,0.4473,3,21,1,1
+waste can,3,near,Trash can,0.7927,63,122,1,1
+pastry cloth,3,near,Pastry,0.7981,1,10,1,0
+pastry blender,3,near,Pastry,0.8123,1,10,1,0
+footstool,3,exact,Footstool,1.0000,2,11,1,0
+tote bags,3,near,Bag,0.6357,18,69,1,1
+glass set,3,near,Glass,0.7822,110,181,1,1
+wine bottle opener,3,near,Wine bottle,0.7060,11,61,1,1
+gloves,3,near,Glove,0.8706,1,18,1,0
+topper,3,far,Granite top,0.4422,1,9,1,0
+tortilla warmer,3,far,Blanket,0.4271,178,180,1,1
+trays,3,near,Tray,0.8972,24,91,1,1
+trivet,3,near,Duvet,0.6121,6,25,1,0
+tumblers,3,far,Mugs,0.5944,5,27,1,1
+basket unit,3,near,Basket,0.7988,146,253,1,1
+egg cup set,3,near,Eggs,0.6696,1,8,1,0
+water filters,3,far,Water glasses,0.5582,1,6,0,1
+floor cleaner,3,near,Vacuum cleaner,0.7271,1,6,1,0
+food saver,3,far,Freezer,0.5489,1,11,1,0
+air purifying bag,3,far,Bag,0.4920,18,69,1,1
+water filtration system,3,far,Water dispenser,0.4325,1,8,1,0
+baking set,3,far,Ovens,0.5755,1,10,1,0
+baking mats,3,near,Mat,0.6014,3,14,1,1
+food cover,3,near,Food container,0.6483,1,9,1,0
+wash bags,3,near,Washcloths,0.6273,1,7,1,0
+cake pan set,3,near,Pans,0.7014,4,29,1,0
+canopy,3,exact,Canopy,1.0000,5,23,1,0
+sink liner,3,near,Sink,0.7348,801,403,1,1
+shoe bags,3,near,Shoes,0.7662,7,34,1,1
+shoe organizer,3,near,Shoe rack,0.7248,1,6,1,0
+shoe box,3,near,Box,0.7093,30,95,1,1
+cooking bags,3,near,Bag,0.6012,18,69,1,1
+pasta pot,3,near,Pot,0.7293,82,147,1,1
+encasement,3,far,Bookcase,0.5806,8,32,1,0
+tablecloth protector,3,near,Tablecloth,0.8423,54,129,1,1
+suction cups,3,near,Cups,0.6142,16,86,1,1
+beverage bottle,3,near,Glass bottle,0.8476,3,16,1,1
+blades,3,near,Knives,0.7072,5,36,1,0
+kit,3,far,Bag,0.5259,18,69,1,1
+labels,3,far,Maps,0.4566,1,6,1,0
+swab,3,far,Drain,0.4434,4,6,1,1
+storage system,3,near,Storage unit,0.8449,2,12,1,0
+kitchen island,3,exact,Kitchen island,1.0000,27,81,1,1
+bin,3,exact,Bin,1.0000,1,9,1,0
+strips,3,far,Striped cloth,0.5358,1,11,1,0
+bedding set,3,near,Bedding,0.8008,109,106,1,1
+bedding encasement,3,near,Bedding,0.7772,109,106,1,1
+board,3,exact,Board,1.0000,1,8,1,0
+dining chairs,3,exact,Dining chairs,1.0000,2,13,1,0
+mason jars,3,near,Jars,0.8308,1,6,1,0
+diffuser,3,far,Dryer,0.5372,2,13,1,0
+bowl brush,3,near,Bowl,0.6388,203,268,1,1
+martini glass,3,near,Beverage glass,0.7898,1,9,1,0
+markers,3,far,Colored pencils,0.5128,1,7,1,0
+magnetic bar,3,near,Bar,0.6236,5,23,1,1
+spray bottle,3,near,Bottle,0.7294,82,164,1,1
+storage rack,3,near,Rack,0.7668,1,8,1,0
+lunch jar,3,near,Jar,0.7233,11,53,1,1
+laundry bags,3,near,Laundry basket,0.7501,6,35,1,1
+ice cubes,3,near,Ice bucket,0.6491,2,10,1,0
+disc,3,near,Cd player,0.6644,1,5,1,0
+decanter set,3,near,Decanter,0.7974,3,9,1,1
+decorating bag,3,near,Bag,0.6309,18,69,1,1
+lifter,3,far,Shaker,0.5390,1,9,1,0
+toilet tissue holder,3,near,Toilet paper holder,0.8835,17,32,1,1
+chopping mats,3,near,Chopping board,0.6941,3,23,1,0
+pourer,3,far,Shaker,0.4873,1,9,1,0
+rocker,3,near,Rock,0.7412,1,4,1,0
+hall tree,3,near,Tree,0.7326,1,6,1,0
+ice mold,3,far,Ice bucket,0.5494,2,10,1,0
+drying mat,3,near,Towel mat,0.6699,1,4,0,1
+iced tea maker,3,near,Tea pot,0.6555,1,9,1,0
+honey pot,3,near,Tea pot,0.6648,1,9,1,0
+toilet bowl brush,3,near,Toilet,0.6113,214,145,1,1
+beater blade,3,far,Knife,0.5504,33,97,1,0
+teacup,3,near,Teacups,0.9085,2,10,1,1
+double boiler,3,far,Stove,0.4607,413,277,1,1
+drain cover,3,near,Drain,0.7028,4,6,1,1
+drain protector,3,near,Drain,0.6677,4,6,1,1
+roasting pan,3,near,Frying pan,0.6993,1,17,1,0
+produce bag,3,near,Bag,0.6824,18,69,1,1
+pizza screen,3,near,Screen,0.6159,13,35,1,1
+clips,3,far,Frames,0.4824,12,43,1,1
+pillowcases,3,near,Pillows,0.8072,73,111,1,1
+chopsticks,3,near,Stir sticks,0.7203,1,11,1,0
+popper,3,far,Pepper shaker,0.4354,3,26,1,0
+plate rack,3,near,Dish rack,0.7835,52,124,1,1
+plant stand,3,exact,Plant stand,1.0000,1,9,1,0
+placemats,3,exact,Placemats,1.0000,2,10,1,0
+workstation,3,near,Computer,0.6799,14,51,1,1
+wine stopper,3,near,Wine,0.7002,2,16,1,0
+whisk,2,far,Wicker basket,0.4444,1,8,1,0
+whiskey stones,2,far,Stone wall,0.5868,5,24,1,0
+art print,2,near,Artwork,0.8145,119,162,1,1
+wardrobe,2,exact,Wardrobe,1.0000,25,51,1,1
+warming tray,2,near,Tray,0.7256,24,91,1,1
+bakeware set,2,near,Cookware,0.6630,17,65,1,1
+bag sealer,2,near,Bag,0.6802,18,69,1,1
+baguette pan,2,near,Pan,0.6299,84,144,1,1
+dining chair,2,exact,Dining chair,1.0000,28,61,1,1
+deodorizer,2,far,Decanter,0.4522,3,9,1,1
+decorating bags,2,far,Decor,0.5658,19,71,1,0
+maker,2,near,Coffee maker,0.6571,80,124,1,1
+wrap,2,far,Cloth,0.5702,4,33,1,1
+wine glass charms,2,near,Wine glass,0.7673,7,40,1,0
+wine bottle holder,2,near,Wine bottle,0.8354,11,61,1,1
+whip,2,far,Rope,0.5536,2,6,1,0
+loft bed,2,exact,Loft bed,1.0000,2,17,1,0
+lotion dispenser,2,near,Lotion bottle,0.7555,2,11,1,1
+lotion pump,2,near,Lotion,0.7476,9,34,1,1
+lazy susan,2,far,Floral chair,0.4746,1,10,1,0
+lid lifter,2,far,Plastic lid,0.5705,1,5,0,1
+lamp,2,exact,Lamp,1.0000,931,406,1,1
+lasagna pan,2,near,Pan,0.6829,84,144,1,1
+dinnerware set,2,near,Kitchenware,0.7522,20,47,0,1
+cutting boards,2,near,Cutting board,0.9466,65,135,1,1
+cushion cover,2,near,Cushion,0.8154,99,137,1,1
+custard cups,2,near,Cups,0.7048,16,86,1,1
+cupcake liners,2,far,Cups,0.5411,16,86,1,1
+cupcake molds,2,far,Cups,0.5386,16,86,1,1
+cupcake stand,2,near,Cake stand,0.7573,1,13,1,0
+microwave cooker,2,near,Microwave,0.7824,240,232,1,1
+loaf dish,2,near,Bread,0.7551,12,70,1,0
+towel shelf,2,near,Towel rack,0.8513,16,40,1,1
+towel stand,2,near,Towel holder,0.8220,15,29,1,1
+towel grabber,2,near,Towel,0.8408,233,230,1,1
+toothbrush sanitizer,2,near,Toothbrush,0.8012,6,27,1,1
+tortilla pan,2,near,Pan,0.7236,84,144,1,1
+treads,2,far,Treadmill,0.5725,2,13,1,0
+tofu press,2,far,Coffee machine,0.3785,2,14,1,0
+battery,2,far,Laptop,0.5190,13,49,1,1
+washer,2,exact,Washer,1.0000,2,10,1,0
+travel mug,2,near,Mug,0.8055,9,47,1,0
+bar spoon,2,near,Spoon,0.7674,24,83,1,0
+barometer,2,far,Bar counter,0.5700,3,17,1,0
+baking stone,2,near,Stone wall,0.6289,5,24,1,0
+bar,2,exact,Bar,1.0000,5,23,1,1
+bar set,2,near,Bar,0.7729,5,23,1,1
+wall decor,2,exact,Wall decor,1.0000,27,75,1,1
+folding chair,2,near,Chair,0.7263,1046,532,1,1
+valve,2,near,Shower valve,0.6678,1,2,1,0
+vaporizer,2,far,Vacuum cleaner,0.5294,1,6,1,0
+vacuum sealer bags,2,far,Vacuum cleaner,0.5050,1,6,1,0
+vacuum sealer rolls,2,far,Roll toilet paper,0.5134,1,5,1,0
+wax paper,2,near,Paper,0.7322,16,59,1,1
+waste bin,2,exact,Waste bin,1.0000,2,17,1,0
+washcloth,2,exact,Washcloth,1.0000,3,17,1,0
+bake set,2,far,Oven,0.5757,207,207,1,1
+wreath holder,2,near,Wreath,0.8951,12,38,1,1
+wrap box,2,near,Decorative box,0.6868,10,47,1,1
+apple corer,2,far,Apple,0.5937,6,32,1,0
+air filter,2,far,Air conditioner,0.5809,32,56,1,1
+air pot,2,near,Pot,0.7592,82,147,1,1
+air purifying bags,2,far,Bag,0.4309,18,69,1,1
+food grinder,2,near,Coffee grinder,0.8287,1,8,1,0
+spice grinder,2,near,Coffee grinder,0.7918,1,8,1,0
+spice jar,2,exact,Spice jar,1.0000,1,8,1,0
+sofa bed,2,near,Sofa,0.8728,596,297,1,1
+stickers,2,exact,Stickers,1.0000,1,6,1,0
+steak knife set,2,near,Knives,0.6687,5,36,1,0
+steak set,2,far,Chess set,0.5367,5,26,1,1
+steam case,2,near,Display case,0.6097,1,7,1,0
+squeeze bottles,2,near,Bottles,0.7355,26,91,1,1
+bracket,2,far,Card,0.4332,3,8,1,1
+bowl covers,2,near,Bowls,0.7420,19,80,1,1
+box foundation,2,near,Boxes,0.6060,7,29,1,1
+bottle tote,2,near,Bottle,0.6839,82,164,1,1
+storage drawer,2,exact,Storage drawer,1.0000,2,8,1,0
+storage jar,2,near,Storage container,0.7219,1,6,1,0
+spice tower,2,near,Spice rack,0.6230,2,8,1,0
+spiral slicer,2,far,Toaster,0.5308,20,61,1,1
+food storage system,2,near,Food container,0.7047,1,9,1,0
+food strainer,2,near,Strainer,0.8976,1,9,1,0
+faucet cap,2,near,Faucet,0.7642,119,160,1,1
+entertainment center,2,exact,Entertainment center,1.0000,6,17,1,1
+emulsifier,2,far,Vacuum cleaner,0.4303,1,6,1,0
+sprayer,2,far,Washer,0.5728,2,10,1,0
+springform pan,2,far,Pan,0.5358,84,144,1,1
+boxspring cover,2,far,Decorative box,0.5583,10,47,1,1
+table covers,2,near,Tablecloth,0.6770,54,129,1,1
+storage cart,2,exact,Storage cart,1.0000,2,12,1,1
+stoppers,2,far,Slippers,0.5010,3,15,1,1
+bottle set,2,near,Bottles,0.7839,26,91,1,1
+bottle cap catcher,2,near,Bottles,0.6328,26,91,1,1
+blender jar,2,near,Jar,0.7881,11,53,1,1
+body pillow,2,near,Pillow,0.8640,218,202,1,1
+freezer bowl,2,near,Bowl,0.7196,203,268,1,1
+canvas art,2,near,Artwork,0.7355,119,162,1,1
+can,2,far,Cans,0.5016,1,3,1,0
+can tracker,2,far,Trash can,0.3794,63,122,1,1
+cake pan strips,2,far,Pans,0.5684,4,29,1,0
+case,2,near,Display case,0.6151,1,7,1,0
+casserole pan,2,near,Pan,0.7444,84,144,1,1
+carrier,2,far,Phone,0.4895,24,61,1,1
+card covers,2,near,Cards,0.6696,2,6,1,1
+shovel,2,far,Knife,0.5789,33,97,1,0
+shower curtain hook,2,near,Shower curtain rod,0.8256,1,5,0,1
+soda maker,2,near,Coffee maker,0.6498,80,124,1,1
+sink rack,2,near,Sink,0.7430,801,403,1,1
+shelving rack,2,near,Shelving,0.8785,3,13,1,1
+shoe bag,2,near,Shoes,0.7632,7,34,1,1
+shelf liners,2,near,Shelves,0.6742,23,88,1,1
+shelf organizer,2,near,Shelf,0.7822,160,255,1,1
+goblet,2,far,Sconce,0.3603,2,14,1,0
+gaskets,2,far,Gas burner,0.5527,1,8,1,0
+gaming chair,2,near,Chair,0.7579,1046,532,1,1
+garment rack,2,near,Rack,0.7642,1,8,1,0
+hook rack,2,near,Hanging rack,0.8369,1,8,1,0
+hand mixer,2,near,Mixer,0.8607,5,30,1,0
+handle,2,near,Basket with handle,0.6786,1,8,1,0
+sink center,2,near,Sink,0.7551,801,403,1,1
+sink skirt,2,near,Sink,0.6542,801,403,1,1
+burner,2,near,Gas burner,0.8241,1,8,1,0
+butter keeper,2,far,Pastry,0.4233,1,10,1,0
+brushes,2,near,Toothbrush,0.7191,6,27,1,1
+brewing system,2,near,Coffee maker,0.6182,80,124,1,1
+grater disc,2,far,Cd player,0.4439,1,5,1,0
+gravy boat,2,near,Boat,0.6694,1,9,1,0
+griddle pan,2,near,Pan,0.7280,84,144,1,1
+saucier pan,2,near,Pan,0.6932,84,144,1,1
+sauce pot,2,near,Pot,0.7331,82,147,1,1
+salad spinner,2,far,Pepper shaker,0.5522,3,26,1,0
+rod,2,near,Fishing rod,0.7444,1,8,1,0
+rings,2,far,Towel ring,0.5761,1,3,0,1
+recycler,2,near,Recycling bin,0.6800,1,9,1,0
+chopstick,2,near,Stir sticks,0.6914,1,11,1,0
+popcorn maker,2,far,Corn,0.5966,1,16,1,0
+serving tray,2,near,Tray,0.7749,24,91,1,1
+set,2,near,Train set,0.6590,3,25,1,0
+screen guard,2,near,Screen,0.6224,13,35,1,1
+scrubber,2,far,Scrub brush,0.5987,1,4,1,0
+clamps,2,far,Knife holder,0.4397,2,13,1,0
+cheese knife set,2,near,Knives,0.6640,5,36,1,0
+cheesecloth,2,near,Dishcloth,0.8349,1,8,1,0
+chafing dish,2,near,Dish,0.7042,54,104,1,1
+dust bags,2,near,Bag,0.6544,18,69,1,1
+dryer,2,exact,Dryer,1.0000,2,13,1,0
+drawer dividers,2,near,Drawer,0.6604,56,107,1,1
+drawer liner,2,near,Drawer,0.7635,56,107,1,1
+shears,2,far,Slippers,0.5153,3,15,1,1
+sealer,2,far,Freezer,0.5331,1,11,1,0
+seed sprouter,2,far,Vegetable,0.4425,2,22,1,0
+server,2,far,Computer,0.4843,14,51,1,1
+cards,2,exact,Cards,1.0000,2,6,1,1
+capper,2,far,Shaker,0.5603,1,9,1,0
+cappuccino cup,2,near,Cup,0.6611,103,191,1,1
+caps,2,near,Hats,0.6153,1,7,1,0
+shoe bench,2,near,Bench,0.7530,23,79,1,1
+shoe shelf,2,near,Shoe rack,0.8108,1,6,1,0
+gripper,2,far,Glove,0.5252,1,18,1,0
+duffle bag,2,near,Bag,0.7520,18,69,1,1
+pizza stone,2,near,Stone wall,0.6674,5,24,1,0
+place cards,2,near,Cards,0.7770,2,6,1,1
+piping bag,2,near,Bag,0.6814,18,69,1,1
+pancake pan,2,near,Pan,0.8832,84,144,1,1
+oven rack,2,near,Oven,0.7978,207,207,1,1
+oxygen absorbers,2,far,Canisters,0.3518,2,8,1,1
+coffee storage drawer,2,near,Storage drawer,0.7826,2,8,1,0
+nut milk bag,2,near,Bag,0.6293,18,69,1,1
+coating,2,far,Pan,0.5507,84,144,1,1
+coaster,2,exact,Coaster,1.0000,1,10,1,0
+coaster set,2,near,Coaster,0.8299,1,10,1,0
+pot hooks,2,near,Pots,0.6591,19,72,1,1
+pillow inserts,2,near,Pillows,0.7799,73,111,1,1
+pen,2,exact,Pen,1.0000,4,22,1,0
+phone stand,2,near,Stand,0.7243,3,16,1,0
+picture frame,2,exact,Picture frame,1.0000,333,285,1,1
+juice extractor,2,near,Orange juice,0.6534,3,23,1,0
+jewelry organizer,2,far,Storage drawer,0.5238,2,8,1,0
+ironing table,2,near,Ironing board,0.7499,1,8,1,0
+pillow protectors,2,near,Pillows,0.7676,73,111,1,1
+coffee caddy,2,near,Coffee maker,0.6712,80,124,1,1
+coffee cup,2,near,Coffee cups,0.8983,1,9,1,0
+coffee cups,2,exact,Coffee cups,1.0000,1,9,1,0
+coffee drawer,2,near,Drawer,0.7458,56,107,1,1
+poster frame,2,near,Poster,0.7806,12,40,1,0
+popcorn,2,near,Corn,0.6792,1,16,1,0
+popcorn boxes,2,near,Boxes,0.6772,7,29,1,1
+plate holders,2,near,Plates,0.7930,90,175,1,1
+recipe cards,2,near,Cookbook,0.6045,8,38,1,1
+press,2,far,Console,0.4794,1,5,1,0
+probe,2,far,Microscope,0.5218,1,6,1,0
+produce bags,2,far,Bag,0.5979,18,69,1,1
+measuring cups and spoons,2,near,Spoons,0.6522,1,8,1,0
+mug holder,2,near,Cup holder,0.8386,1,6,1,0
+muddler,2,far,Spoon,0.4731,24,83,1,0
+mold set,2,far,Canister set,0.5451,1,8,1,0
+mitt,2,far,Bidet,0.3862,18,33,1,1
+magazine holder,2,near,Magazine,0.7744,37,90,1,1
+luggage scale,2,near,Scale,0.6450,1,13,1,0
+cutters,2,near,Cutting board,0.6097,65,135,1,1
+knobs,2,near,Knob,0.8984,1,2,1,0
+knock box,2,near,Box,0.6974,30,95,1,1
+cup and saucer,2,near,Saucer,0.7522,4,19,1,0
+covers,2,near,Bed cover,0.6651,1,8,1,0
+oven gloves,2,near,Glove,0.6465,1,18,1,0
+oven guard,2,near,Oven,0.7173,207,207,1,1
+organizer set,2,far,Drawers,0.5472,5,23,1,1
+measuring cup and spoon set,2,near,Spoons,0.6403,1,8,1,0
+pastry bags,2,near,Pastry,0.7407,1,10,1,0
+infuser,2,far,Strainer,0.4998,1,9,1,0
+iron,2,near,Ironing board,0.6845,1,8,1,0
+ironing board,2,exact,Ironing board,1.0000,1,8,1,0
+dish set,2,near,Dish,0.8354,54,104,1,1
+dish towels,2,near,Dish towel,0.9312,4,21,1,0
+dish tub,2,near,Dish,0.7487,54,104,1,1
+disc set,2,far,Cd player,0.5416,1,5,1,0
+oil,2,near,Cooking oil,0.6897,1,11,1,0
+napkin holder,2,near,Napkin,0.8595,17,65,1,0
+night table,2,near,Dining table,0.7000,109,151,1,1
+cookware stand,2,near,Cookware,0.7561,17,65,1,1
+cookie press,2,near,Cookies,0.7157,1,9,1,0
+cookbook,2,exact,Cookbook,1.0000,8,38,1,1
+console table,2,exact,Console table,1.0000,6,24,1,0
+cook book holder,2,near,Cookbook,0.7667,8,38,1,1
+toaster cover,2,near,Toaster,0.7531,20,61,1,1
+tissue,2,exact,Tissue,1.0000,1,8,0,1
+sushi mat,2,near,Mat,0.6364,3,14,1,1
+storage tote,2,near,Storage container,0.6869,1,6,1,0
+tea bags,2,near,Teacups,0.6951,2,10,1,1
+tags,2,far,Cards,0.4234,2,6,1,1
+table cover,2,near,Tablecloth,0.6791,54,129,1,1
+table covering,2,near,Table,0.6766,840,522,1,1
+toilet paper,2,exact,Toilet paper,1.0000,17,38,1,1
+toilet seat,2,near,Toilet,0.8224,214,145,1,1
+table pad,2,near,Table cloth,0.6575,1,9,1,0
+biscotti pan,2,near,Pan,0.6837,84,144,1,1
+bento,2,far,Bidet,0.3604,18,33,1,1
+bedding sheet set,2,near,Bedding,0.6448,109,106,1,1
+beer equipment kit,2,far,Kitchen equipment,0.5619,1,5,0,1
+tissue pod,2,near,Tissue,0.7486,1,8,0,1
+filter bags,2,near,Bag,0.6092,18,69,1,1
+filter cartridge,2,far,Printer,0.3891,3,22,1,0
+filter cone,2,far,Mask,0.3384,2,9,1,1
+filler,2,far,Washer,0.4848,2,10,1,0
+thermos,2,far,Heater,0.4981,2,6,1,1
+teacups,2,exact,Teacups,1.0000,2,10,1,1
+tooth brush holder,2,near,Toothbrush holder,0.9455,5,22,1,1
+toilet wand,2,near,Toilet,0.7297,214,145,1,1
+battery storage box,2,near,Storage box,0.7479,12,52,1,0
+beaker,2,far,Glass jug,0.5951,2,16,1,1
+bathroom set,2,near,Bathroom,0.6918,1,5,1,0
+bathtub,2,exact,Bathtub,1.0000,131,125,1,1
+batter bowl,2,near,Bowl,0.7598,203,268,1,1
+towel valet,2,near,Towel,0.7303,233,230,1,1
+floor mat,2,exact,Floor mat,1.0000,7,38,1,0
+floor brush,2,near,Scrub brush,0.6853,1,4,1,0
+bag clip,2,near,Bag,0.7211,18,69,1,1
+wine tote,2,near,Wine,0.7046,2,16,1,0
+wrench,2,far,Knife,0.5344,33,97,1,0
+wine thief,1,near,Wine,0.6708,2,16,1,0
+wire,1,near,Cable,0.6539,2,11,1,1
+accessory kit,1,far,Bathroom accessories,0.5493,2,8,0,1
+wood conditioner,1,near,Conditioner,0.7348,7,21,1,1
+work station,1,far,Desk,0.5746,122,145,1,1
+work table,1,near,Table,0.7318,840,522,1,1
+accessory,1,far,Bathroom accessories,0.5843,2,8,0,1
+bacon rack,1,near,Rack,0.7691,1,8,1,0
+badge bar,1,near,Bar,0.6600,5,23,1,1
+bag cap,1,near,Bag,0.7893,18,69,1,1
+bag dispenser,1,near,Water dispenser,0.7136,1,8,1,0
+wine saver,1,near,Wine,0.6414,2,16,1,0
+adapter kit,1,far,Electrical outlet,0.3716,2,7,1,0
+wine storage,1,near,Wine bottles,0.7102,3,20,1,0
+bakery box,1,near,Box,0.6289,30,95,1,1
+bakeware rack,1,near,Dish rack,0.6862,52,124,1,1
+bag inserts,1,near,Bag,0.6530,18,69,1,1
+bag opener,1,near,Bag,0.6509,18,69,1,1
+wall system,1,near,Wall,0.7076,7,39,1,0
+wash bag set,1,far,Washcloths,0.5923,1,7,1,0
+baking liners,1,far,Ovens,0.4483,1,10,1,0
+baking pan set,1,near,Pans,0.6780,4,29,1,0
+baking paper,1,near,Paper,0.6420,16,59,1,1
+baking papers,1,far,Papers,0.5785,1,4,0,1
+art prints,1,near,Artwork,0.7813,119,162,1,1
+artwork,1,exact,Artwork,1.0000,119,162,1,1
+ash tray,1,near,Tray,0.6905,24,91,1,1
+audio tower,1,near,Audio equipment,0.6432,1,4,1,0
+backpack,1,exact,Backpack,1.0000,3,15,1,1
+airpot,1,far,Cookpot,0.5993,1,12,1,0
+alarm,1,near,Alarm clock,0.8504,11,18,1,1
+whisky chilling rocks,1,far,Rock,0.4923,1,4,1,0
+whisky rocks,1,near,Rock,0.6149,1,4,1,0
+whisky stones,1,far,Stone wall,0.5524,5,24,1,0
+wicks,1,far,Wicker basket,0.4530,1,8,1,0
+art,1,exact,Art,1.0000,12,47,1,0
+window cling,1,near,Window curtain,0.6195,2,14,1,0
+window clings,1,far,Window,0.5637,495,349,1,1
+window film,1,near,Window,0.6883,495,349,1,1
+wine bar,1,near,Wine rack,0.8003,16,65,1,1
+wine bottle stopper,1,near,Wine bottle,0.7694,11,61,1,1
+weights,1,far,Scale,0.4949,1,13,1,0
+wine opener set,1,far,Wine bottles,0.5959,3,20,1,0
+wine pump,1,near,Wine bottle,0.7009,11,61,1,1
+wine bottle stoppers,1,near,Wine bottles,0.7667,3,20,1,0
+wine box,1,near,Wine bottle,0.8012,11,61,1,1
+wine cart,1,near,Cart,0.7460,3,21,1,1
+wine cellar,1,near,Wine,0.7376,2,16,1,0
+wine charms,1,near,Wine glasses,0.6772,1,9,0,1
+mattress lifter,1,near,Mattress,0.6192,4,13,1,1
+magnets,1,far,Vases,0.4780,6,31,1,1
+mason jar,1,near,Jar,0.7644,11,53,1,1
+lunch pot,1,near,Pot,0.7360,82,147,1,1
+lunch set,1,near,Tea set,0.6252,8,32,1,1
+lunchbox,1,far,Food container,0.5657,1,9,1,0
+magazine file holder,1,near,Magazines,0.6539,14,44,1,1
+descaling liquid,1,far,Scale,0.4044,1,13,1,0
+desk and chair set,1,near,Desk,0.7303,122,145,1,1
+damper,1,far,Dryer,0.5919,2,13,1,0
+decalcifier,1,near,Decanter,0.7134,3,9,1,1
+decorating tube set,1,far,Decorative objects,0.4372,5,23,1,0
+mattress bags,1,near,Mattress,0.6187,4,13,1,1
+dessert maker,1,far,Pastry,0.5825,1,10,1,0
+detergent,1,exact,Detergent,1.0000,1,8,1,0
+dicer,1,far,Saucer,0.4691,4,19,1,0
+dimmer,1,far,Lamps,0.4634,16,46,1,0
+dinette set,1,far,Tea set,0.5822,8,32,1,1
+degasser,1,far,Gas burner,0.4540,1,8,1,0
+dehydrator screen,1,far,Screen,0.5271,13,35,1,1
+lid rest,1,near,Plastic lid,0.6420,1,5,0,1
+lamp bulb,1,near,Lamp,0.8816,931,406,1,1
+dining table set,1,near,Dining table,0.8971,109,151,1,1
+dinner plate,1,near,Plate,0.8223,156,215,1,1
+dipper,1,far,Shaker,0.5164,1,9,1,0
+light bulb changer,1,far,Light switch,0.5885,2,10,1,0
+lighter,1,near,Light,0.6514,39,72,1,1
+lights,1,exact,Lights,1.0000,2,9,1,1
+liner pad,1,far,Floor cushion,0.5413,1,7,1,0
+laundry wash bag,1,near,Laundry basket,0.7349,6,35,1,1
+lenscup,1,near,Glasses,0.6063,42,127,1,1
+lingerie bag,1,near,Bag,0.6810,18,69,1,1
+lotion applicator wand set,1,far,Lotion bottle,0.5511,2,11,1,1
+lifts,1,far,Stairs,0.4650,18,52,1,0
+light bulb,1,near,Lamp,0.7835,931,406,1,1
+kitchen tool,1,near,Kitchen equipment,0.7610,1,5,0,1
+kitchen tools,1,near,Kitchen equipment,0.7933,1,5,0,1
+knife blade protector,1,near,Knife block,0.6919,6,26,1,0
+keeper set,1,far,Chess set,0.5811,5,26,1,1
+keepsake box,1,far,Decorative box,0.5426,10,47,1,1
+key rack,1,near,Rack,0.7536,1,8,1,0
+kitchen center,1,near,Kitchen,0.7857,1,10,1,0
+liners,1,far,Carriage,0.5659,1,5,1,0
+knife block set,1,near,Knife block,0.8465,6,26,1,0
+knife holder,1,exact,Knife holder,1.0000,2,13,1,0
+knife organizer,1,near,Knife holder,0.7934,2,13,1,0
+knife rack,1,exact,Knife rack,1.0000,1,9,1,0
+knife storage block,1,near,Knife block,0.8147,6,26,1,0
+knife storage strip,1,near,Knife holder,0.7018,2,13,1,0
+knife tray,1,near,Knife holder,0.7706,2,13,1,0
+kitchen mat,1,near,Floor mat,0.7750,7,38,1,0
+cupcake plunger,1,near,Plunger,0.7546,3,6,1,1
+microwave concentrators,1,near,Microwave,0.6055,240,232,1,1
+microwave cooking set,1,near,Microwave,0.7472,240,232,1,1
+mirror tray,1,near,Mirror,0.6509,455,318,1,1
+meat injector,1,far,Toy cow,0.3885,1,3,1,0
+cutter and stamp kit,1,far,Cutting board,0.5417,65,135,1,1
+curtain rods,1,near,Shower curtain rod,0.8435,1,5,0,1
+curtains,1,exact,Curtains,1.0000,412,319,1,1
+cushion support,1,near,Cushion,0.8581,99,137,1,1
+cupcake boxes,1,near,Boxes,0.7134,7,29,1,1
+cutting board set,1,near,Cutting board,0.8339,65,135,1,1
+cutting mats,1,near,Floor mat,0.6396,7,38,1,0
+cylinder set,1,far,Canister set,0.5691,1,8,1,0
+cut mat,1,near,Mat,0.7368,3,14,1,1
+cutlery caddy,1,near,Cutlery,0.7285,15,61,1,1
+cutlery holder,1,exact,Cutlery holder,1.0000,2,13,1,0
+magazine stand,1,near,Magazine,0.7354,37,90,1,1
+lounge,1,near,Chaise lounge,0.8347,4,14,1,1
+lounger,1,near,Chaise lounge,0.6890,4,14,1,1
+luggage identifier,1,near,Luggage,0.6637,4,15,1,1
+lunch container,1,near,Food container,0.8311,1,9,1,0
+cutter set,1,near,Cutting board,0.6106,65,135,1,1
+mister,1,far,Toilet,0.3614,214,145,1,1
+mixer bowl,1,near,Mixer,0.8478,5,30,1,0
+mixer bowl covers,1,far,Bowls,0.5939,19,80,1,1
+mixer grinder,1,near,Coffee grinder,0.7873,1,8,1,0
+mixer lift,1,near,Mixer,0.6605,5,30,1,0
+crumber,1,far,Crib,0.5617,19,60,1,1
+monitor,1,exact,Monitor,1.0000,1,5,0,1
+mopping cloths,1,near,Cloth,0.6906,4,33,1,1
+mount,1,near,Wall mount,0.7705,1,4,1,0
+mixing cups,1,near,Cups,0.7106,16,86,1,1
+mixing glass,1,near,Glass containers,0.6512,2,9,0,1
+molcajete,1,far,Barstool,0.4493,3,21,1,0
+mold pan,1,near,Pan,0.7131,84,144,1,1
+mattress platform,1,near,Mattress,0.7532,4,13,1,1
+meal box,1,near,Food container,0.6965,1,9,1,0
+measure cup,1,near,Cup,0.7326,103,191,1,1
+measuring beaker,1,far,Microscope,0.4715,1,6,1,0
+muffin tin,1,far,Pan,0.4548,84,144,1,1
+multi pot,1,near,Pot,0.7622,82,147,1,1
+molds,1,far,Breads,0.5182,1,9,1,0
+melting pot,1,near,Pot,0.6250,82,147,1,1
+menu holders,1,near,Menu,0.7094,4,12,1,1
+messenger bag,1,near,Bag,0.6928,18,69,1,1
+measuring glass,1,near,Glass,0.6623,110,181,1,1
+measuring jar,1,near,Jar,0.6814,11,53,1,1
+measuring pan,1,near,Pan,0.6719,84,144,1,1
+oven mesh,1,near,Oven,0.7234,207,207,1,1
+omelet maker,1,far,Toy kitchen,0.4237,3,22,1,0
+omelet pan,1,near,Pan,0.7398,84,144,1,1
+organizer box,1,near,Boxes,0.6395,7,29,1,1
+organizer rack,1,near,Rack,0.7563,1,8,1,0
+corks,1,far,Wine bottles,0.5789,3,20,1,0
+cosmetic bag,1,near,Bag,0.6732,18,69,1,1
+cotton candy,1,far,Sugar packets,0.5320,2,12,1,1
+counter cover,1,near,Countertop,0.6900,251,207,1,1
+counter mat,1,near,Mat,0.7650,3,14,1,1
+counter protector,1,near,Metallic counter,0.6224,1,4,1,0
+counter set,1,near,Counter,0.8222,345,277,1,1
+oven glove,1,near,Glove,0.7602,1,18,1,0
+crock pot liners,1,near,Crockery,0.6160,1,9,1,0
+counter space,1,near,Counter,0.6802,345,277,1,1
+counter stool,1,near,Stool,0.8036,65,156,1,1
+coupler,1,far,Saucer,0.4949,4,19,1,0
+coupling,1,far,Mixer,0.3350,5,30,1,0
+cozy,1,far,Duvet,0.5941,6,25,1,0
+creamer,1,far,Saucer,0.5692,4,19,1,0
+cup cake maker,1,near,Cup,0.6543,103,191,1,1
+cup dispenser,1,near,Water dispenser,0.7663,1,8,1,0
+cup hooks,1,near,Cup holder,0.6777,1,6,1,0
+cup set,1,near,Cup,0.7956,103,191,1,1
+creamer and sugar bowl set,1,near,Sugar bowl,0.6477,1,6,1,0
+creamer and sugar set,1,near,Sugar packets,0.6190,2,12,1,1
+crepe pan,1,near,Pan,0.6781,84,144,1,1
+dish brush,1,near,Dish soap,0.7362,11,49,1,1
+dish cloth set,1,near,Dishcloth,0.7724,1,8,1,0
+dish drying mat,1,far,Dish towel,0.5940,4,21,1,0
+knives set,1,near,Knives,0.8053,5,36,1,0
+koozie,1,far,Sconce,0.4483,2,14,1,0
+label kit,1,far,Plastic container,0.4432,1,5,0,1
+dishwasher,1,exact,Dishwasher,1.0000,231,204,1,1
+dishwasher attachment,1,near,Dishwasher,0.7596,231,204,1,1
+dish soap,1,exact,Dish soap,1.0000,11,49,1,1
+dishcloth,1,exact,Dishcloth,1.0000,1,8,1,0
+divider set,1,far,Block set,0.4445,2,15,1,0
+dividers,1,far,Platter,0.4299,5,39,1,0
+divot tool,1,far,Column,0.3266,5,22,1,0
+doilies,1,far,Cup,0.4058,103,191,1,1
+doormat,1,near,Door,0.7282,117,181,1,0
+dishcloth set,1,near,Dishcloth,0.8744,1,8,1,0
+dishes,1,near,Dish,0.7681,54,104,1,1
+dishtowel,1,near,Dishrack,0.6257,3,20,1,0
+insect powder,1,far,Mosquito net,0.5112,1,5,1,0
+inserts,1,far,Boxes,0.4053,7,29,1,1
+iron rest,1,near,Ironing board,0.6145,1,8,1,0
+ironing board cover,1,near,Ironing board,0.8161,1,8,1,0
+ironing board holder,1,near,Ironing board,0.8315,1,8,1,0
+container set,1,near,Container,0.7936,19,70,1,1
+party picks,1,far,Posters,0.3729,2,12,1,0
+pasta boat,1,near,Boat,0.7312,1,9,1,0
+pasta cooker,1,near,Cooker,0.7859,1,8,1,0
+pasta cooker set,1,near,Cookware,0.6123,17,65,1,1
+pasta maker,1,far,Kitchen,0.5708,1,10,1,0
+cookware pot,1,near,Cookware,0.8406,17,65,1,1
+cookware rack,1,near,Cookware,0.8000,17,65,1,1
+cook set,1,near,Cookware,0.7288,17,65,1,1
+connector,1,far,Cable,0.5962,2,11,1,1
+console,1,exact,Console,1.0000,1,5,1,0
+multicooker,1,far,Stereo,0.3737,2,9,0,1
+necklace,1,near,Beads,0.6653,1,5,0,1
+cork holder,1,near,Candle holder,0.6415,17,50,1,1
+cork puller,1,far,Hanger,0.4566,2,11,1,0
+cookie pan set,1,near,Cookies,0.6455,1,9,1,0
+organizer tray,1,near,Tray,0.7737,24,91,1,1
+nut milk bags,1,far,Bag,0.5408,18,69,1,1
+odor remover bar,1,far,Bar of soap,0.4664,1,3,1,0
+oil bottles,1,near,Bottles,0.7471,26,91,1,1
+oil burner,1,near,Gas burner,0.7801,1,8,1,0
+oil pot,1,near,Pot,0.7595,82,147,1,1
+coffee pod dispenser,1,near,Water dispenser,0.6818,1,8,1,0
+coffee pod drawer,1,near,Drawer,0.6996,56,107,1,1
+coffee pod storage drawer,1,near,Storage drawer,0.7802,2,8,1,0
+coffee roaster,1,near,Coffee maker,0.7966,80,124,1,1
+coffee siphon,1,near,Coffee machine,0.6762,2,14,1,0
+coffee filter set,1,near,Coffee maker,0.6057,80,124,1,1
+coffee holder,1,near,Cup holder,0.8045,1,6,1,0
+coffee machine,1,exact,Coffee machine,1.0000,2,14,1,0
+compost bin,1,near,Recycling bin,0.7126,1,9,1,0
+composter,1,far,Planter,0.5015,1,8,1,0
+composting bags,1,far,Bag,0.5102,18,69,1,1
+computer station,1,near,Computer,0.6115,14,51,1,1
+coffee system,1,near,Coffee machine,0.8095,2,14,1,0
+coffee table set,1,near,Coffee table,0.8515,577,306,1,1
+coin bank,1,far,Cart,0.4311,3,21,1,1
+panini maker,1,near,Pan,0.6677,84,144,1,1
+oven pull,1,near,Oven,0.7343,207,207,1,1
+oven rack guards,1,near,Ovens,0.6396,1,10,1,0
+oven shelf guard,1,far,Ovens,0.5838,1,10,1,0
+ozone plate,1,far,White plate,0.5774,1,11,1,0
+collar,1,far,Stuffed dog,0.4792,1,8,1,0
+pantry system,1,near,Pantry,0.8570,3,20,1,0
+parchment,1,far,Pastry,0.5342,1,10,1,0
+party bar,1,near,Bar,0.7865,5,23,1,1
+pan holder,1,near,Pan,0.7624,84,144,1,1
+pan lid,1,near,Pan,0.7633,84,144,1,1
+pan liner,1,near,Pan,0.7454,84,144,1,1
+pan tree,1,near,Pan,0.7279,84,144,1,1
+place card holders,1,near,Cards,0.6567,2,6,1,1
+place mat,1,near,Mat,0.8196,3,14,1,1
+piping nozzles,1,far,Shower valve,0.3602,1,2,1,0
+pizza crisper,1,far,Toaster,0.5267,20,61,1,1
+pizza peel,1,far,Pie,0.4970,1,12,1,0
+pizza set,1,far,Kitchen play set,0.5843,1,9,1,0
+peel,1,far,Knife,0.4473,33,97,1,0
+placemat set,1,near,Placemats,0.8007,2,10,1,0
+plastic wrap,1,near,Plastic bag,0.6885,1,5,0,1
+plate case,1,near,Plate,0.7723,156,215,1,1
+plate holder,1,near,Plate,0.8050,156,215,1,1
+pizza wheel,1,far,Bicycle,0.4975,1,5,1,0
+place card holder,1,near,Paper holder,0.6571,1,3,1,0
+photo display,1,near,Photo frame,0.7111,10,41,1,0
+pie baker,1,near,Pie,0.7741,1,12,1,0
+pie crust,1,near,Pie,0.8176,1,12,1,0
+pastry board,1,near,Pastry,0.8138,1,10,1,0
+pastry frame,1,near,Pastry,0.7985,1,10,1,0
+patio heater,1,near,Heater,0.7168,2,6,1,1
+coffee pack drawer,1,near,Drawer,0.6751,56,107,1,1
+pillow encasing,1,near,Pillow,0.8405,218,202,1,1
+pillow mat,1,near,Pillow,0.7862,218,202,1,1
+pie server,1,near,Pie,0.6778,1,12,1,0
+pie set,1,near,Pie,0.7605,1,12,1,0
+peppermill,1,near,Pepper,0.7429,3,28,1,0
+clip strips,1,far,Striped cloth,0.5062,1,11,1,0
+clock timer,1,near,Clock,0.7998,66,149,1,1
+pot clip,1,near,Pot,0.6811,82,147,1,1
+pot handle holder,1,near,Utensil holder,0.6815,13,46,1,1
+pot handle sleeve,1,far,Decorative pot,0.5652,4,22,1,0
+pot handle sleeves,1,far,Decorative pot,0.5823,4,22,1,0
+pot hook,1,near,Pot,0.7301,82,147,1,1
+cloth holder,1,near,Towel holder,0.7504,15,29,1,1
+clothes bar,1,near,Bar,0.7635,5,23,1,1
+cloths,1,near,Cloth,0.9215,4,33,1,1
+coat hook,1,near,Coat rack,0.6437,3,11,1,0
+cleaning cups,1,near,Cups,0.7022,16,86,1,1
+cleaning kit,1,near,Cleaning supplies,0.7480,1,10,1,0
+coffee dripper,1,near,Coffee machine,0.7330,2,14,1,0
+coffee filter basket,1,near,Coffee maker,0.6617,80,124,1,1
+coat tree,1,near,Tree,0.6629,1,6,1,0
+cocktail shaker,1,near,Shaker,0.7483,1,9,1,0
+cocktail shaker set,1,far,Tea set,0.5857,8,32,1,1
+cocotte,1,far,Figurine,0.5081,1,6,1,0
+coffee baskets,1,near,Baskets,0.7186,3,26,1,0
+pillow pet,1,near,Pillow,0.7998,218,202,1,1
+pins,1,far,Shoes,0.5173,7,34,1,1
+coffee decanter,1,near,Decanter,0.7098,3,9,1,1
+jigger,1,far,Comb,0.3988,1,8,1,0
+ironing mat,1,near,Ironing board,0.7345,1,8,1,0
+ironing table holder,1,near,Ironing board,0.6384,1,8,1,0
+jar grip,1,near,Jar,0.7208,11,53,1,1
+jar grippers,1,near,Jars,0.6844,1,6,1,0
+jar grips,1,near,Jar,0.6882,11,53,1,1
+jar lifter,1,near,Jar,0.7322,11,53,1,1
+juicer blender,1,near,Juice jug,0.6232,1,8,1,0
+k cup drawer,1,near,Drawer,0.7096,56,107,1,1
+k cup filter,1,far,Cup,0.4925,103,191,1,1
+keeper,1,far,Knife,0.5037,33,97,1,0
+jar sealer,1,near,Jar,0.7396,11,53,1,1
+jar strainer,1,near,Strainer,0.8393,1,9,1,0
+jello shot cups,1,near,Cups,0.6438,16,86,1,1
+ice blanket,1,near,Blanket,0.8081,178,180,1,1
+ice cream sticks,1,near,Decorative sticks,0.6253,2,11,1,0
+ice maker,1,near,Ice bucket,0.6733,2,10,1,0
+hot chocolate maker,1,far,Coffee maker,0.5731,80,124,1,1
+hot pack,1,far,Backpack,0.5489,3,15,1,1
+hot pot set,1,near,Pots,0.7189,19,72,1,1
+juice jar,1,near,Jar,0.8077,11,53,1,1
+induction cooktop,1,near,Cooktop,0.7214,18,58,1,1
+induction range,1,far,Range,0.4695,2,19,1,0
+inflator,1,far,Balloon,0.4917,2,17,1,0
+ice molds,1,far,Ice bucket,0.5427,2,10,1,0
+ice pack,1,near,Ice bucket,0.6304,2,10,1,0
+ice popsicle maker molds,1,far,Ice bucket,0.4157,2,10,1,0
+ice stirrers,1,near,Stir sticks,0.6217,1,11,1,0
+ice tea maker,1,near,Tea pot,0.6733,1,9,1,0
+quilt rack,1,near,Rack,0.7716,1,8,1,0
+produce protector,1,far,Makeup products,0.3976,1,6,0,1
+pub set,1,near,Tea set,0.6178,8,32,1,1
+pots,1,exact,Pots,1.0000,19,72,1,1
+pouch,1,near,Bag,0.6643,18,69,1,1
+pod holster,1,far,Shoe,0.4451,1,8,1,0
+rasp,1,far,Mat,0.4995,3,14,1,1
+re sealer,1,far,Freezer,0.3728,1,11,1,0
+recipe card dividers,1,far,Cookbook,0.4388,8,38,1,1
+recliner cable,1,near,Recliner,0.7581,4,14,1,1
+punch bowl,1,near,Bowl,0.8024,203,268,1,1
+punch bowl set,1,near,Bowls,0.6579,19,80,1,1
+popcorn cart,1,near,Cart,0.6949,3,21,1,1
+popcorn containers,1,near,Containers,0.7025,3,12,1,1
+popcorn machine,1,far,Corn,0.5803,1,16,1,0
+plate separators,1,near,Plates,0.6850,90,175,1,1
+plate set,1,near,Plates,0.8266,90,175,1,1
+plate stand,1,near,Plate,0.7569,156,215,1,1
+popsicle maker,1,far,Pepper shaker,0.5122,3,26,1,0
+popsicle mold,1,far,Vases,0.4623,6,31,1,1
+pod maker,1,far,Coffee maker,0.5765,80,124,1,1
+poly bags,1,near,Plastic bag,0.6816,1,5,0,1
+popcorn bags,1,near,Bag,0.6072,18,69,1,1
+recycling container,1,near,Recycling bin,0.7912,1,9,1,0
+remote control,1,exact,Remote control,1.0000,9,28,1,1
+repair kit,1,far,Cleaning supplies,0.3629,1,10,1,0
+chopping mat and knife set,1,near,Chopping knife,0.6505,1,13,1,0
+chopping tray,1,near,Chopping board,0.7284,3,23,1,0
+citric acid,1,far,Olive oil,0.4337,1,9,1,0
+rice steamer,1,near,Rice cooker,0.7702,2,12,1,0
+ricer,1,near,Rice cooker,0.6654,2,12,1,0
+ring,1,near,Towel ring,0.6081,1,3,0,1
+rinse aid,1,far,Detergent,0.5596,1,8,1,0
+recliner cover,1,near,Recliner,0.7597,4,14,1,1
+recliner handle,1,near,Recliner,0.7593,4,14,1,1
+recycle bags,1,near,Recycling bin,0.6286,1,9,1,0
+roti pan,1,near,Pan,0.7718,84,144,1,1
+rinser,1,near,Washer,0.7046,2,10,1,0
+riser,1,far,Shaker,0.5406,1,9,1,0
+risers,1,far,Slippers,0.4922,3,15,1,1
+roast pan,1,near,Pan,0.7638,84,144,1,1
+robe,1,far,Clothes,0.5996,7,30,1,0
+repair tabs,1,far,Tray,0.2971,24,91,1,1
+restorer,1,far,Backsplash,0.4298,1,6,1,0
+pouches,1,far,Bag,0.5968,18,69,1,1
+pourers,1,far,Cups,0.4997,16,86,1,1
+power cord,1,far,Electrical outlet,0.5660,2,7,1,0
+power stake,1,far,Lanterns,0.4103,1,9,1,0
+robe hook,1,far,Hanging clothes,0.5413,1,8,1,0
+rolling pin cover,1,far,Roll of toilet paper,0.4724,3,21,1,0
+rolls,1,near,Roll toilet paper,0.6588,1,5,1,0
+scale remover,1,far,Scale,0.5642,1,13,1,0
+scoop set,1,far,Tea set,0.5781,8,32,1,1
+sandwich press,1,far,Toaster,0.4976,20,61,1,1
+sanitizer,1,far,Cleaner,0.5798,1,13,1,0
+sauce boat,1,near,Boat,0.7284,1,9,1,0
+sauce pan set,1,near,Pans,0.6901,4,29,1,0
+cereal dispenser,1,near,Water dispenser,0.6698,1,8,1,0
+chain,1,far,Gate,0.4719,1,7,1,0
+chair mat,1,near,Floor mat,0.7969,7,38,1,0
+chairpad,1,near,Wooden chair,0.6500,1,8,1,0
+chalkboard,1,exact,Chalkboard,1.0000,4,23,1,0
+saw frame,1,near,Frame,0.7373,9,28,1,1
+champagne flute,1,far,Wine glass,0.5603,7,40,1,0
+charms,1,far,Beads,0.5473,1,5,0,1
+cheese board,1,near,Cheese,0.7364,2,20,1,0
+cheese cloth,1,near,Cloth,0.7610,4,33,1,1
+cheese dome,1,near,Cheese,0.6168,2,20,1,0
+cheese tray,1,near,Tray,0.7672,24,91,1,1
+clamp,1,far,Knife holder,0.4803,2,13,1,0
+chenille stems,1,far,Decorative plant,0.4594,28,80,1,1
+chilling stones,1,far,Stone wall,0.5856,5,24,1,0
+chip maker,1,far,Coffee maker,0.4717,80,124,1,1
+chopping board,1,exact,Chopping board,1.0000,3,23,1,0
+chopping boards,1,near,Chopping board,0.9528,3,23,1,0
+chopping mat,1,near,Chopping board,0.7362,3,23,1,0
+serveware,1,near,Dishware,0.6112,8,36,1,1
+scraper set,1,far,Tool set,0.5361,1,9,1,0
+screen divider,1,near,Screen,0.6014,13,35,1,1
+scrub cloths,1,near,Washcloths,0.7827,1,7,1,0
+shelf clips,1,near,Shelves,0.6822,23,88,1,1
+shaker bottle,1,near,Shaker,0.7793,1,9,1,0
+shaker glass set,1,near,Glass containers,0.6548,2,9,0,1
+shear,1,far,Strainer,0.4790,1,9,1,0
+sealing ring,1,far,Towel ring,0.4765,1,3,0,1
+runner,1,near,Race track,0.6330,1,7,1,0
+s hook,1,far,Wall hooks,0.4998,1,5,1,0
+salad bowl,1,near,Bowl,0.8382,203,268,1,1
+salad chopper,1,far,Fruit bowl,0.5637,90,169,1,1
+salad set,1,near,Tea set,0.6142,8,32,1,1
+sheet grippers,1,far,Slippers,0.5923,3,15,1,1
+sheet pans,1,near,Pans,0.8157,4,29,1,0
+salt and pepper set,1,near,Salt,0.6192,2,21,1,0
+salt cellar,1,near,Salt,0.6843,2,21,1,0
+salt dip,1,near,Salt,0.7560,2,21,1,0
+salt mill,1,near,Salt,0.7030,2,21,1,0
+sand bags,1,near,Bag,0.6441,18,69,1,1
+sandwich box,1,near,Boxes,0.6568,7,29,1,1
+rotisserie,1,far,Cooktop,0.5784,18,58,1,1
+rug set,1,near,Rugs,0.8483,1,4,0,1
+drain board,1,near,Drain,0.7703,4,6,1,1
+drain cleaner,1,near,Drain,0.7766,4,6,1,1
+drain protectors,1,near,Drain,0.6311,4,6,1,1
+drain stop,1,near,Drain,0.7955,4,6,1,1
+icing bag,1,near,Bag,0.6009,18,69,1,1
+icing bag ties,1,far,Bag,0.4452,18,69,1,1
+icing bottles,1,far,Bottles,0.5865,26,91,1,1
+icing mix,1,far,Mixer,0.4657,5,30,1,0
+drying system,1,near,Dryer,0.7039,2,13,1,0
+drying tree,1,far,Tree,0.5825,1,6,1,0
+draining mat,1,near,Drain,0.6001,4,6,1,1
+drawer insert,1,near,Drawer,0.8086,56,107,1,1
+drain,1,exact,Drain,1.0000,4,6,1,1
+dust,1,far,Cleaner,0.5166,1,13,1,0
+dust ruffle,1,far,Rug,0.4374,435,336,1,1
+dustbags,1,near,Bag,0.6539,18,69,1,1
+duvet cover,1,near,Duvet,0.8597,6,25,1,0
+drinking glasses,1,near,Drinking glass,0.8718,1,3,1,0
+drinking jar,1,near,Glass jar,0.7928,9,49,1,1
+drip pot,1,near,Pot,0.7875,82,147,1,1
+grill set,1,far,Chess set,0.5613,5,26,1,1
+grille pan,1,near,Pan,0.7232,84,144,1,1
+grilling bags,1,far,Bag,0.5750,18,69,1,1
+grinder attachment,1,near,Coffee grinder,0.6547,1,8,1,0
+grocery bag,1,near,Bag,0.7568,18,69,1,1
+guard,1,far,Banister,0.4471,1,6,1,0
+shopping bags,1,near,Bag,0.7062,18,69,1,1
+shopping cart liner,1,near,Shopping cart,0.7173,1,8,1,0
+shot glass maker,1,near,Glass,0.6753,110,181,1,1
+shot glass mold,1,far,Glass,0.5781,110,181,1,1
+shot glass set,1,near,Glass,0.6272,110,181,1,1
+carpet,1,exact,Carpet,1.0000,33,64,1,1
+cap set,1,far,Tea set,0.5479,8,32,1,1
+cap washer,1,near,Washer,0.8060,2,10,1,0
+cappuccino cups,1,near,Coffee cups,0.7072,1,9,1,0
+cappuccino maker,1,far,Coffee maker,0.5791,80,124,1,1
+cart liner,1,near,Cart,0.6916,3,21,1,1
+cartridges,1,near,Printer,0.6761,3,22,1,0
+carving fork,1,near,Fork,0.7808,29,90,1,0
+carafe set,1,far,Coffee mugs,0.5812,1,3,0,1
+card,1,exact,Card,1.0000,3,8,1,1
+card holder,1,near,Card,0.7585,3,8,1,1
+seal,1,far,Mask,0.5418,2,9,1,1
+casserole set,1,far,Cookware,0.5605,17,65,1,1
+caster kit,1,far,Planter,0.4494,1,8,1,0
+casters,1,far,Chairs,0.4826,246,271,1,1
+cd boxes,1,near,Cd player,0.6597,1,5,1,0
+carpet extractor,1,near,Carpet,0.7300,33,64,1,1
+candelabra,1,exact,Candelabra,1.0000,2,12,1,0
+candle,1,exact,Candle,1.0000,62,141,1,1
+cake maker,1,near,Cake,0.7773,2,17,1,0
+cake mold,1,near,Cake,0.6735,2,17,1,0
+cake pans,1,near,Pans,0.8423,4,29,1,0
+cake plate,1,near,Plate,0.7805,156,215,1,1
+cake stand,1,exact,Cake stand,1.0000,1,13,1,0
+candy dish,1,near,Dish,0.6762,54,104,1,1
+canister bags,1,near,Canisters,0.7906,2,8,1,1
+canner rack,1,near,Rack,0.7455,1,8,1,0
+cake tins,1,near,Cake,0.6751,2,17,1,0
+can cover,1,far,Cans,0.5429,1,3,1,0
+can dispenser,1,near,Water dispenser,0.7437,1,8,1,0
+shelf lock clips,1,far,Shelf,0.5046,160,255,1,1
+shelf paper,1,near,Paper,0.7412,16,59,1,1
+shelf rest,1,near,Shelf,0.8135,160,255,1,1
+canning lids,1,near,Plastic lid,0.6463,1,5,0,1
+cap catcher,1,far,Hats,0.4645,1,7,1,0
+candle holder,1,exact,Candle holder,1.0000,17,50,1,1
+shoe tower,1,near,Shoe,0.7084,1,8,1,0
+shoe tree,1,near,Shoe,0.7690,1,8,1,0
+shelving kit,1,near,Shelving,0.8877,3,13,1,1
+shield,1,far,Block,0.5084,1,4,1,0
+shelf divider,1,near,Shelves,0.6786,23,88,1,1
+soap cradle,1,near,Soap,0.7498,48,94,1,1
+sleeve,1,near,Jacket,0.6532,1,4,0,1
+sleeve kit,1,far,Jacket,0.5687,1,4,0,1
+slicer shredder,1,far,Platter,0.5394,5,39,1,0
+slicing disc,1,far,Cutting board,0.4258,65,135,1,1
+slipcover,1,near,Slippers,0.7338,3,15,1,1
+slippers,1,exact,Slippers,1.0000,3,15,1,1
+sock,1,near,Socks,0.8941,1,8,1,0
+soda siphon,1,far,Beverage,0.5451,1,6,1,0
+slushy maker,1,far,Coffee maker,0.5351,80,124,1,1
+smoker box,1,near,Box,0.6107,30,95,1,1
+snack bag,1,near,Bag,0.7371,18,69,1,1
+soap case,1,near,Soap,0.7952,48,94,1,1
+shredding disc,1,far,Cd player,0.4018,1,5,1,0
+shower curtain o ring,1,near,Shower curtain,0.8452,63,68,1,1
+shower head caddy,1,near,Shower head,0.8091,1,5,1,0
+shower hook,1,near,Shower,0.6958,55,66,1,1
+shower,1,exact,Shower,1.0000,55,66,1,1
+shower bar,1,near,Towel bar,0.7485,2,8,1,0
+shower coach,1,near,Shower,0.7031,55,66,1,1
+simmer plate,1,near,Plate,0.6924,156,215,1,1
+sink,1,exact,Sink,1.0000,801,403,1,1
+sink grid,1,near,Sinks,0.7163,5,32,1,1
+shower splash guard,1,near,Shower,0.6147,55,66,1,1
+shower stool,1,near,Stool,0.7639,65,156,1,1
+shower strip,1,near,Shower,0.7013,55,66,1,1
+showerhead,1,exact,Showerhead,1.0000,27,41,1,1
+hat,1,exact,Hat,1.0000,4,21,1,1
+hat organizer,1,near,Hats,0.6750,1,7,1,0
+headrest,1,near,Footrest,0.6578,1,9,1,0
+hand fan,1,near,Fan,0.7260,20,66,1,1
+hand soap system,1,near,Hand soap,0.8643,1,10,1,0
+handbag,1,exact,Handbag,1.0000,2,17,1,1
+garbage bag holder,1,near,Plastic bag,0.6478,1,5,0,1
+garlic keeper,1,far,Kitchen,0.4673,1,10,1,0
+gas lift,1,far,Gas burner,0.5681,1,8,1,0
+hinges,1,far,Doors,0.5346,2,13,1,0
+honey jar,1,near,Jar,0.7637,11,53,1,1
+handle wraps,1,far,Hand towel,0.4786,8,34,1,1
+goblets,1,far,Playset,0.3902,1,6,1,0
+goggles,1,near,Glasses,0.6305,42,127,1,1
+glass cleaner,1,near,Glass,0.7161,110,181,1,1
+glass rimmer,1,near,Glass,0.6608,110,181,1,1
+game set,1,near,Chess set,0.7357,5,26,1,1
+egg cups,1,near,Eggs,0.7533,1,8,1,0
+grill light,1,near,Light,0.6084,39,72,1,1
+glider,1,far,Stroller,0.4940,2,11,1,0
+globe,1,exact,Globe,1.0000,13,50,1,1
+glue,1,far,Toothpaste,0.4922,4,18,1,0
+broiler,1,near,Broccoli,0.6111,2,27,1,0
+broiler pan set,1,near,Pans,0.6289,4,29,1,0
+broiler set,1,far,Broccoli,0.5226,2,27,1,0
+sponge holders,1,near,Sponge,0.7352,7,30,1,1
+spoon dish,1,near,Spoon,0.8541,24,83,1,0
+spoon set,1,near,Spoons,0.8691,1,8,1,0
+spoon spatula,1,near,Spatula,0.7663,1,9,1,0
+spoonrest,1,near,Spoon,0.7848,24,83,1,0
+brush set,1,near,Scrub brush,0.6129,1,4,1,0
+bucket,1,exact,Bucket,1.0000,3,15,1,0
+buffet,1,exact,Buffet,1.0000,7,41,1,0
+buffet tray,1,near,Buffet,0.8199,7,41,1,0
+brining bag,1,near,Bag,0.6675,18,69,1,1
+broil pan,1,near,Pan,0.7284,84,144,1,1
+cake box,1,near,Cake,0.7559,2,17,1,0
+cake decorating,1,near,Decor,0.6522,19,71,1,0
+cake decorating kit,1,far,Cake stand,0.5551,1,13,1,0
+bunkie board,1,near,Bunk bed,0.7502,11,31,1,1
+burger maker,1,far,Coffee maker,0.5813,80,124,1,1
+burner bib,1,far,Gas burner,0.5438,1,8,1,0
+sink saver,1,near,Sink,0.7137,801,403,1,1
+sink set,1,near,Sinks,0.7775,5,32,1,1
+sink tidy,1,near,Sink,0.7726,801,403,1,1
+siphon,1,far,Water dispenser,0.4948,1,8,1,0
+butter warmer,1,far,Heater,0.5040,2,6,1,1
+cabinet rack,1,near,Wall cabinet,0.7663,5,22,1,0
+cable tightener,1,far,Cable,0.5943,2,11,1,1
+steam pads,1,far,Floor cushion,0.4912,1,7,1,0
+sprouter,1,far,Vegetable,0.5176,2,22,1,0
+squeezer,1,far,Shaker,0.5945,1,9,1,0
+stacker,1,far,Platter,0.5458,5,39,1,0
+stand mixer,1,near,Mixer,0.7674,5,30,1,0
+spout,1,far,Drain,0.5013,4,6,1,1
+steaming rack,1,near,Rack,0.6890,1,8,1,0
+stein,1,far,Pens,0.4213,1,7,1,0
+stereo stand,1,near,Music stand,0.7637,1,11,1,0
+stir stick,1,near,Stir sticks,0.9279,1,11,1,0
+statue,1,exact,Statue,1.0000,29,87,1,1
+spice jars,1,exact,Spice jars,1.0000,1,5,0,1
+soymilk maker,1,far,Eggs,0.4594,1,8,1,0
+space bag,1,near,Bag,0.7535,18,69,1,1
+spacesaver,1,far,Carriage,0.4130,1,5,1,0
+spatula set,1,near,Spatula,0.8293,1,9,1,0
+speaker mount,1,near,Speaker,0.6504,9,31,1,1
+steamer pot,1,near,Cooking pot,0.7148,2,14,1,1
+spinner,1,far,Shaker,0.5363,1,9,1,0
+spice bags,1,near,Spice jars,0.7202,1,5,0,1
+spice jar carousel,1,near,Spice jar,0.7269,1,8,1,0
+spice jar set,1,near,Spice jar,0.8612,1,8,1,0
+storage cubes,1,exact,Storage cubes,1.0000,1,7,1,0
+storage dish,1,near,Dish,0.7364,54,104,1,1
+storage dish set,1,near,Dish rack,0.6712,52,124,1,1
+storage drawers,1,near,Storage drawer,0.9091,2,8,1,0
+storage seat,1,near,Window seat,0.6502,1,5,0,1
+storage boxes,1,near,Storage box,0.9267,12,52,1,0
+bread bags,1,near,Breads,0.7795,1,9,1,0
+bowl maker,1,near,Bowl,0.8106,203,268,1,1
+bowls set,1,near,Bowls,0.8594,19,80,1,1
+bottle tree,1,near,Tree,0.7044,1,6,1,0
+bowl brush set,1,far,Ornamental bowl,0.5622,1,5,1,0
+brewing basket,1,near,Basket,0.7052,146,253,1,1
+box spring encasement,1,far,Box,0.4381,30,95,1,1
+boxes,1,exact,Boxes,1.0000,7,29,1,1
+bracket set,1,far,Block set,0.5620,2,15,1,0
+brackets,1,far,Wreath,0.3885,12,38,1,1
+braiser pan,1,near,Pan,0.6840,84,144,1,1
+spray,1,far,Cleaner,0.5105,1,13,1,0
+spreader,1,far,Dryer,0.5283,2,13,1,0
+springform,1,far,Dress form,0.3912,1,7,1,0
+brew,1,near,Coffee maker,0.6578,80,124,1,1
+brew basket,1,near,Basket,0.7036,146,253,1,1
+brew pack,1,far,Coffee maker,0.5794,80,124,1,1
+egg ring,1,near,Eggs,0.7468,1,8,1,0
+egg tray,1,near,Tray,0.7026,24,91,1,1
+end tables,1,near,End table,0.9212,4,15,1,0
+duvet gripper,1,near,Duvet,0.7627,6,25,1,0
+dvd storage bags,1,far,Dvds,0.5489,1,7,1,0
+egg boiler,1,near,Eggs,0.6115,1,8,1,0
+egg cracker,1,near,Eggs,0.6408,1,8,1,0
+feet,1,near,Shoe,0.7082,1,8,1,0
+espresso coffeemaker,1,near,Coffee maker,0.7647,80,124,1,1
+espresso percolator,1,near,Coffee machine,0.6446,2,14,1,0
+espresso set,1,far,Canister set,0.5631,1,8,1,0
+eyeglass rack,1,near,Shoe rack,0.6279,1,6,1,0
+false bottom,1,far,Floor,0.3764,5,20,1,1
+egg poachers,1,near,Eggs,0.6991,1,8,1,0
+food ties,1,near,Food items,0.6381,1,2,1,0
+food tray,1,near,Tray,0.8673,24,91,1,1
+food warmer,1,near,Food,0.6331,7,39,1,1
+fan assembly,1,near,Ceiling fan,0.6144,30,76,1,1
+feather bed,1,near,Loft bed,0.7080,2,17,1,0
+featherbed,1,far,Loft bed,0.5165,2,17,1,0
+feeder tray,1,near,Tray,0.8209,24,91,1,1
+fruit wedger,1,near,Fruit,0.6890,61,121,1,1
+foundation,1,far,Makeup,0.4885,1,8,1,0
+frappe maker,1,far,Coffee maker,0.4786,80,124,1,1
+fruit bowl,1,exact,Fruit bowl,1.0000,90,169,1,1
+food storage vessels,1,near,Storage containers,0.6749,2,8,0,1
+blender blade,1,far,Chopping knife,0.5886,1,13,1,0
+blender bottle,1,near,Glass bottle,0.7634,3,16,1,1
+syrup,1,far,Sugar packets,0.5852,2,12,1,1
+syrup bottle,1,near,Bottle,0.7107,82,164,1,1
+table   chairs,1,near,Chairs,0.9099,246,271,1,1
+table cards,1,near,Cards,0.7779,2,6,1,1
+bottle cap holder,1,near,Water bottle,0.6347,14,65,1,1
+book clip,1,near,Book,0.6218,48,102,1,1
+book holder,1,near,Bookshelf,0.6764,167,233,1,1
+book tower,1,near,Bookshelf,0.6224,167,233,1,1
+bookcase headboard,1,near,Bookcase,0.7691,8,32,1,0
+bookend,1,near,Bookshelf,0.6074,167,233,1,1
+blanket support,1,near,Blanket,0.7533,178,180,1,1
+bottle filler,1,near,Bottle,0.6889,82,164,1,1
+bottle filter,1,near,Cleaning bottle,0.6774,1,4,1,0
+bottle holder,1,near,Bottle,0.7354,82,164,1,1
+bottle lock,1,near,Bottle,0.6749,82,164,1,1
+bookstand,1,near,Bookshelf,0.6319,167,233,1,1
+boot tray,1,near,Tray,0.6040,24,91,1,1
+bottle brush,1,near,Cleaning bottle,0.7410,1,4,1,0
+storage case,1,near,Storage box,0.7090,12,52,1,0
+storage closet,1,near,Closet,0.7569,8,24,1,0
+storage bag cutter,1,far,Plastic bag,0.5832,1,5,0,1
+storage bowls,1,near,Bowls,0.7941,19,80,1,1
+stirrers,1,near,Stir sticks,0.7203,1,11,1,0
+bottle cutter,1,near,Bottle,0.6836,82,164,1,1
+tablecloth clips,1,near,Tablecloth,0.7579,54,129,1,1
+tablecloth weights,1,near,Tablecloth,0.7248,54,129,1,1
+taco tote,1,far,Coffee can,0.3712,1,5,1,0
+tamping mat,1,near,Mat,0.7464,3,14,1,1
+tea glass,1,near,Beverage glass,0.7952,1,9,1,0
+tea lights,1,near,Teapots,0.7189,1,13,1,0
+tea pot,1,exact,Tea pot,1.0000,1,9,1,0
+tea bag holder,1,near,Cup holder,0.6039,1,6,1,0
+tea ball,1,near,Ball,0.7376,3,16,1,0
+tea box,1,near,Tea pot,0.7572,1,9,1,0
+tea cup,1,near,Teacups,0.8394,2,10,1,1
+straps,1,far,Backpack,0.5317,3,15,1,1
+storage set,1,near,Storage unit,0.7573,2,12,1,0
+storage shelves,1,near,Shelves,0.8883,23,88,1,1
+storage tower,1,near,Storage unit,0.7241,2,12,1,0
+storage trunk,1,near,Trunk,0.7931,1,8,1,0
+tea cups,1,near,Teacups,0.8651,2,10,1,1
+tea filters,1,far,Teapots,0.5902,1,13,1,0
+table cloth,1,exact,Table cloth,1.0000,1,9,1,0
+sugar pot,1,near,Pot,0.6661,82,147,1,1
+sunscreen,1,far,Lotion,0.5360,9,34,1,1
+support,1,far,Note,0.4255,1,6,1,0
+sushi rolling kit,1,far,Rolling cart,0.4327,1,7,1,0
+suspender,1,far,Hanger,0.5321,2,11,1,0
+strainer bags,1,near,Strainer,0.7507,1,9,1,0
+tissue stand,1,near,Tissue holder,0.7770,1,7,1,0
+throw sofa,1,near,Sofa,0.7787,596,297,1,1
+tie rack,1,near,Hanging rack,0.8103,1,8,1,0
+tiffin,1,far,Pan,0.4669,84,144,1,1
+tin tote,1,far,Spoon,0.4205,24,83,1,0
+tins,1,far,Spoons,0.5439,1,8,1,0
+bedskirt pins,1,near,Bedskirt,0.7431,1,3,0,1
+beer glass,1,near,Beverage glass,0.8585,1,9,1,0
+beer mug,1,near,Mug,0.8506,9,47,1,0
+bed slats,1,near,Beds,0.6694,3,15,1,1
+bed tray,1,near,Tray,0.7521,24,91,1,1
+tissue cover,1,near,Tissue,0.7597,1,8,0,1
+bistro set,1,far,Biscuit,0.5302,1,8,1,0
+beer stein,1,far,Beverage,0.4990,1,6,1,0
+bento set,1,far,Chess set,0.4977,5,26,1,1
+bento tote,1,far,Candelabra,0.3572,2,12,1,0
+beverage bottles,1,near,Glass bottles,0.8569,2,15,1,0
+bedding support system,1,near,Bedding,0.7066,109,106,1,1
+table mat,1,near,Mat,0.7066,3,14,1,1
+table numbers,1,near,Table,0.7111,840,522,1,1
+table saw,1,near,Wooden table,0.6768,3,16,1,0
+beverage container,1,near,Beverage,0.7668,1,6,1,0
+beverage heater,1,near,Water heater,0.7142,1,6,1,0
+binder,1,exact,Binder,1.0000,1,6,1,0
+toilet caddy,1,near,Toilet,0.6306,214,145,1,1
+toilet lid cover,1,near,Plastic lid,0.6224,1,5,0,1
+toilet paper holder,1,exact,Toilet paper holder,1.0000,17,32,1,1
+toilet paper stand,1,near,Toilet paper holder,0.8510,17,32,1,1
+toilet plunger,1,near,Plunger,0.8758,3,6,1,1
+toilet plunger and brush set,1,far,Plunger,0.5521,3,6,1,1
+toothbrush,1,exact,Toothbrush,1.0000,6,27,1,1
+toothbrush cover,1,near,Toothbrush holder,0.8023,5,22,1,1
+toilet seat cover,1,near,Toilet paper holder,0.6456,17,32,1,1
+toilet seat cover set,1,far,Toilet paper holder,0.5498,17,32,1,1
+toilet set,1,near,Toilet,0.7458,214,145,1,1
+toilet spray,1,near,Toilet,0.7376,214,145,1,1
+teapot set,1,near,Tea set,0.8878,8,32,1,1
+teaspoon,1,near,Teaspoons,0.8820,1,11,1,0
+temperature control system,1,far,Air conditioner,0.4450,32,56,1,1
+tool attachment set,1,near,Tool set,0.7169,1,9,1,0
+tool bar,1,near,Bar,0.6343,5,23,1,1
+tool box,1,near,Tool set,0.6588,1,9,1,0
+tool box liner,1,far,Boxes,0.4778,7,29,1,1
+tools,1,near,Tool set,0.6408,1,9,1,0
+template,1,far,Document,0.5251,2,14,1,0
+tent,1,exact,Tent,1.0000,4,16,1,0
+thermostat,1,near,Heater,0.6205,2,6,1,1
+thickener,1,far,Strainer,0.4537,1,9,1,0
+throw,1,exact,Throw,1.0000,2,17,1,0
+teaball,1,near,Teapot,0.7434,20,81,1,1
+filter bag,1,near,Bag,0.7004,18,69,1,1
+frypan,1,near,Frying pan,0.6993,1,17,1,0
+gaiwan,1,far,Shoji screen,0.3879,1,7,1,0
+fruit carver,1,near,Fruit,0.6570,61,121,1,1
+fruit roll sheets,1,far,Paper towels,0.5816,1,6,0,1
+fruit roll up sheet,1,far,Sheet,0.5592,2,8,1,0
+fruit stand,1,near,Fruit,0.7109,61,121,1,1
+fruit tree,1,near,Fruit,0.8273,61,121,1,1
+filter paper,1,far,Paper,0.5832,16,59,1,1
+filter screens,1,far,Screen,0.5560,13,35,1,1
+fiberbed,1,far,Mattress,0.5008,4,13,1,1
+file,1,near,Document,0.6178,2,14,1,0
+file cabinet,1,near,Storage cabinet,0.7488,1,6,1,0
+file cart,1,near,Storage cart,0.7207,2,12,1,1
+film,1,far,Television,0.5764,231,246,1,0
+flatware,1,near,Kitchenware,0.7543,20,47,0,1
+flatware tray,1,near,Tray,0.7402,24,91,1,1
+filter basket,1,near,Basket,0.6897,146,253,1,1
+filter candle,1,near,Candle,0.7162,62,141,1,1
+floor finish,1,near,Flooring,0.7064,1,10,1,0
+floor machine,1,near,Flooring,0.7498,1,10,1,0
+flowers,1,exact,Flowers,1.0000,187,229,1,1
+flutes,1,far,Drums,0.5588,1,7,1,0
+folder,1,exact,Folder,1.0000,1,13,1,0
+folding board,1,near,Cutting board,0.6087,65,135,1,1
+finish,1,far,End table,0.4428,4,15,1,0
+bathmat,1,exact,Bathmat,1.0000,2,10,1,0
+bathroom hardware set,1,near,Bathroom accessories,0.6278,2,8,0,1
+bathtub caddy,1,near,Bathtub,0.7572,131,125,1,1
+bathtub strip,1,near,Bathtub,0.8364,131,125,1,1
+bed frame brackets,1,far,Bed canopy,0.5243,1,9,1,0
+beads,1,exact,Beads,1.0000,1,5,0,1
+beanbag chair,1,near,Bean bag chair,0.9428,1,6,1,0
+beater,1,far,Washer,0.5282,2,10,1,0
+bath wrap,1,near,Bath products,0.6578,1,6,1,0
+bed raiser,1,near,Beds,0.6179,3,15,1,1
+bed ruffle,1,near,Bed,0.6521,764,316,1,1
+bed ruffles,1,near,Beds,0.6257,3,15,1,1
+bed set,1,near,Beds,0.7764,3,15,1,1
+bed band,1,near,Bed,0.6950,764,316,1,1
+bed base,1,near,Beds,0.7681,3,15,1,1
+bed bridge,1,near,Bed,0.6554,764,316,1,1
+bed connector,1,far,Bed canopy,0.5747,1,9,1,0
+toaster oven set,1,near,Toaster oven,0.8645,1,3,1,0
+toilet bowl brush holder,1,near,Toilet paper holder,0.7374,17,32,1,1
+toilet brush head,1,near,Shaving brush,0.6481,2,16,1,1
+toilet brush set,1,far,Toilet paper holder,0.5817,17,32,1,1
+bed frame legs,1,near,Beds,0.6468,3,15,1,1
+bed lifters,1,near,Beds,0.6319,3,15,1,1
+bed rail fittings,1,far,Beds,0.4482,3,15,1,1
+tubing,1,near,Bathtub,0.7367,131,125,1,1
+turner,1,far,Pens,0.4370,1,7,1,0
+tv console,1,near,Media console,0.7393,2,10,1,0
+tray table,1,near,Tray,0.8369,24,91,1,1
+treatment,1,far,Window treatment,0.5420,3,13,1,1
+tree,1,exact,Tree,1.0000,1,6,1,0
+trifle,1,far,Cot,0.3878,1,5,1,0
+tortilla pans,1,near,Pans,0.6835,4,29,1,0
+tv swivel board,1,far,Tv stand,0.5121,6,19,1,1
+umbrella,1,exact,Umbrella,1.0000,2,12,1,0
+umbrellas,1,near,Umbrella,0.8933,2,12,1,0
+underbed bag,1,near,Bag,0.6650,18,69,1,1
+utensil clip,1,near,Utensil holder,0.7931,13,46,1,1
+trolley,1,far,Wagon,0.5601,1,5,1,0
+tub mat,1,near,Bath mat,0.8584,24,37,1,1
+tote box,1,near,Box,0.6915,30,95,1,1
+towel butler,1,near,Towel,0.6948,233,230,1,1
+toothbrush holders,1,near,Toothbrush holder,0.9336,5,22,1,1
+tower,1,far,Brick wall,0.5151,2,8,1,0
+toy,1,exact,Toy,1.0000,25,88,1,1
+toy organizer,1,near,Toy storage,0.7351,2,15,1,1
+trash bag,1,near,Bag,0.8135,18,69,1,1
+trash bag holder,1,near,Plastic bag,0.6744,1,5,0,1
+towel holders,1,near,Towel holder,0.9295,15,29,1,1
+towel ladder,1,near,Towel,0.6967,233,230,1,1
+towel ring,1,exact,Towel ring,1.0000,1,3,0,1
+bar rack,1,near,Rack,0.8637,1,8,1,0
+bar shaker set,1,far,Shaker,0.5870,1,9,1,0
+waffle plates,1,near,Plates,0.7247,90,175,1,1
+wall furniture,1,near,Furniture,0.8518,2,7,0,1
+wall mount,1,exact,Wall mount,1.0000,1,4,1,0
+wall mount shelving,1,near,Shelving unit,0.8078,18,65,1,1
+bar stool set,1,near,Bar stools,0.8904,11,53,1,1
+bar tool set,1,near,Tool set,0.7293,1,9,1,0
+barstool,1,exact,Barstool,1.0000,3,21,1,0
+bar cabinet,1,near,Wall cabinet,0.7705,5,22,1,0
+bath sheet set,1,near,Bath mat,0.6306,24,37,1,1
+bath sheets,1,near,Bath mat,0.7350,24,37,1,1
+bath space saver,1,near,Bath,0.6183,1,6,0,1
+baster,1,far,Star,0.4260,1,6,1,0
+basting brush,1,near,Scrub brush,0.7350,1,4,1,0
+bath accessory set,1,near,Bathroom accessories,0.7392,2,8,0,1
+bath mat set,1,near,Bath mat,0.8566,24,37,1,1
+bath mats,1,near,Bath mat,0.9016,24,37,1,1
+trim kit,1,far,Cutting board,0.3812,65,135,1,1
+trash can filters,1,near,Trash can,0.7790,63,122,1,1
+trash can liner,1,near,Trash can,0.7777,63,122,1,1
+trash container,1,near,Container,0.7263,19,70,1,1
+tray divider,1,near,Tray,0.7376,24,91,1,1
+tray set,1,near,Tray,0.8393,24,91,1,1
+bath rugs,1,near,Rugs,0.8162,1,4,0,1
+water distiller,1,near,Water dispenser,0.6596,1,8,1,0
+wash cloth set,1,near,Washcloth,0.7266,3,17,1,0
+wash cloths,1,near,Washcloths,0.8804,1,7,1,0
+washcloths,1,exact,Washcloths,1.0000,1,7,1,0
+washing station,1,near,Washing machine,0.7662,14,49,1,1
+waste bags,1,near,Waste bin,0.7118,2,17,1,0
+water pump,1,far,Water bottle,0.5640,14,65,1,1
+water station,1,far,Water pitcher,0.5660,1,7,1,0
+waterbed heater,1,near,Water heater,0.8062,1,6,1,0
+waste container,1,near,Waste bin,0.7658,2,17,1,0
+water cooler,1,near,Water heater,0.7127,1,6,1,0
+water dispenser,1,exact,Water dispenser,1.0000,1,8,1,0
+vacuum food sealer,1,far,Vacuum cleaner,0.5342,1,6,1,0
+vacuum sealer roll,1,far,Roll toilet paper,0.5274,1,5,1,0
+vacuum sealing system,1,far,Vacuum cleaner,0.5424,1,6,1,0
+utensil pot,1,near,Cooking utensil,0.8418,1,13,1,0
+vacuum cleaner bag,1,near,Vacuum cleaner,0.7861,1,6,1,0
+water heater,1,exact,Water heater,1.0000,1,6,1,0
+wall rack,1,near,Rack,0.8639,1,8,1,0
+wall sticker,1,near,Stickers,0.7714,1,6,1,0
+vanity table,1,near,Vanity,0.7525,12,28,1,1
+vase,1,exact,Vase,1.0000,305,279,1,1
+waffle maker,1,far,Coffee maker,0.5309,80,124,1,1
+vacuum filter bag,1,near,Vacuum cleaner,0.6061,1,6,1,0
+food cover tents,1,near,Tent,0.6636,4,16,1,0
+food keeper set,1,far,Food items,0.5956,1,2,1,0
+food pick,1,near,Food,0.6609,7,39,1,1
+folding mat,1,near,Mat,0.6636,3,14,1,1
+fondant mat,1,near,Flower mat,0.6433,1,5,1,0
+food carrier,1,far,Food container,0.5817,1,9,1,0
+food storage,1,near,Food container,0.7370,1,9,1,0
+food storage box,1,near,Storage box,0.7636,12,52,1,0
+food preparation set,1,near,Food items,0.6089,1,2,1,0
+food preparation station,1,near,Food container,0.6037,1,9,1,0
+food press,1,far,Food,0.5543,7,39,1,1
+food processor attachment,1,far,Kitchen appliance,0.5052,1,6,1,0
+food ring,1,far,Food items,0.5945,1,2,1,0
+food savers,1,far,Food,0.5330,7,39,1,1
+air revitalizer,1,far,Air conditioner,0.4771,32,56,1,1
+adhesive paper,1,near,Paper,0.6946,16,59,1,1
+air cleaner,1,near,Vacuum cleaner,0.7811,1,6,1,0
+air conditioner cover,1,near,Air conditioner,0.7782,32,56,1,1
+air conditioner support,1,near,Air conditioner,0.7778,32,56,1,1
+food scale,1,near,Scale,0.6881,1,13,1,0
+food server,1,near,Food container,0.6020,1,9,1,0
+apple peeler,1,near,Apple,0.6593,6,32,1,0
+applicator,1,far,Toothpaste,0.4351,4,18,1,0
+appliques,1,far,Bowls,0.4091,19,80,1,1
+apron set,1,near,Kitchen play set,0.6172,1,9,1,0
+armchair,1,exact,Armchair,1.0000,139,130,1,1
+wine holder,1,near,Wine bottle,0.7873,11,61,1,1
+wraps,1,far,Blanket,0.5699,178,180,1,1
+wreath hanger,1,near,Decorative wreath,0.8256,2,13,1,1
+wine glass tag,1,near,Wine glass,0.8468,7,40,1,0
+wine glass markers,1,near,Wine glass,0.7134,7,40,1,0
+accent tables,1,far,Tables,0.5182,1,4,1,0
+absorber,1,far,Towel,0.4841,233,230,1,1
+wine glass holders,1,near,Wine glasses,0.8117,1,9,0,1

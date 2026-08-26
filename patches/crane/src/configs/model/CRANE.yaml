@@ -1,0 +1,32 @@
+embedding_size: 64
+feat_embed_dim: 64
+weight_size: [64, 64]
+
+lambda_coeff: 0.9
+reg_weight: [0.0, 1e-05, 1e-04, 1e-03]
+
+n_mm_layers: 1
+n_ui_layers: 2
+knn_k: 10
+
+mm_image_weight: 0.1
+dropout: [0.8, 0.9]
+
+# False reproduces the shipped code exactly. See CrossModalAttention in models/crane.py: at False
+# the "cross-modal" attention actually attends across items, not across the two modalities.
+cross_modal_batch_first: False
+
+# Object graph (see ObjectGraph in models/crane.py). All off by default, so this file on its own
+# still reproduces the published model. object_in_attention requires cross_modal_batch_first,
+# because on the published axis the modalities are the batch dimension and a third one would
+# never be attended over.
+use_object_graph: False
+object_feature_file: 'object_feat.npy'
+object_in_attention: True
+n_obj_layers: 1
+obj_residual: True
+# Add the reverse of each top-k edge. Off = the original directed graph, in which 78.5% of
+# items have in-degree 0 and so receive nothing from the object channel.
+obj_knn_sym: False
+
+hyper_parameters: ["dropout", "reg_weight"]

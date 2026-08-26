@@ -1,0 +1,4 @@
+field,items_with_>=1_object,pct_items,distinct_nodes_seen,pct_of_1068_nodes,mean_objects_per_item,distinct_mit_nodes,distinct_nyu_nodes
+category path,14503,100.0,143,13.4,2.7,136,89
+product text,14452,99.6,754,70.6,4.55,709,313
+"product text, first 15 tokens",14161,97.6,611,57.2,1.94,573,281

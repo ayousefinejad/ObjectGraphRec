@@ -1,0 +1,755 @@
+node,items_in_product_text,in_mit,in_nyu
+Kitchen,2115,1,0
+Dishwasher,2004,1,1
+Food,1946,1,1
+Cup,1724,1,1
+Glass,1607,1,1
+Pan,1373,1,1
+Oven,1110,1,1
+Well,1081,1,0
+Table,875,1,1
+Cups,853,1,1
+Microwave,769,1,1
+Tray,697,1,1
+Bag,696,1,1
+Box,678,1,1
+Bowl,663,1,1
+Bed,640,1,1
+Cookware,638,1,1
+Rack,637,1,0
+Pans,616,1,0
+Pot,595,1,1
+Pillow,589,1,1
+Light,561,1,1
+Wall,557,1,0
+Dish,526,1,1
+Shelf,519,1,1
+Bath,502,0,1
+Bottle,500,1,1
+Shower,471,1,1
+Mattress,468,1,1
+Container,463,1,1
+Decor,456,1,0
+Bathroom,454,1,0
+Paper,428,1,1
+Freezer,423,1,0
+Vegetables,418,1,1
+Counter,416,1,1
+Stand,406,1,0
+Bar,396,1,1
+Towel,394,1,1
+Bowls,388,1,1
+Range,387,1,0
+Fan,379,1,1
+Basket,374,1,1
+Countertop,363,1,1
+Wine,363,1,0
+Drawer,352,1,1
+Frame,352,1,1
+Jar,345,1,1
+Board,331,1,0
+Glasses,329,1,1
+Sheet,326,1,0
+Furniture,324,0,1
+Bread,323,1,0
+Cloth,318,1,1
+Cabinet,316,1,1
+Floor,314,1,1
+Blender,311,1,1
+Towels,310,1,1
+Toaster,309,1,1
+Cart,298,1,1
+Bottles,298,1,1
+Fruit,297,1,1
+Containers,296,1,1
+Shelves,295,1,1
+Mat,293,1,1
+Cake,292,1,0
+Soap,289,1,1
+Pots,287,1,1
+Curtain,286,1,1
+Plate,283,1,1
+Knife,268,1,0
+Shower curtain,265,1,1
+Bamboo,263,1,0
+Cutlery,263,1,1
+Instructions,253,1,0
+Stovetop,245,1,0
+Art,240,1,0
+Sink,238,1,1
+Utensils,231,1,1
+Tv,227,1,1
+Slide,226,1,0
+Mugs,222,1,1
+Kettle,222,1,1
+Cooker,221,1,0
+Door,220,1,0
+Book,214,1,1
+Knives,214,1,0
+Cheese,210,1,0
+Cleaner,209,1,0
+Cutting board,208,1,1
+Heater,207,1,1
+Pillows,207,1,1
+Beverage,203,1,0
+Fruits,200,1,1
+Window,199,1,1
+Drawers,199,1,1
+Coffee maker,194,1,1
+Mug,194,1,0
+Bedding,192,1,1
+Boxes,192,1,1
+Refrigerator,191,1,1
+Plates,190,1,1
+Note,189,1,0
+Chair,187,1,1
+Blanket,175,1,1
+Stove,174,1,1
+Cookies,172,1,0
+Coffee machine,169,1,0
+Desk,164,1,1
+Glassware,164,1,1
+Orange,163,1,0
+Remote,162,1,0
+Utensil,157,0,1
+Appliance,155,1,0
+Frames,152,1,1
+Spoon,151,1,0
+Screen,151,1,1
+Jars,146,1,0
+Ball,144,1,0
+Eggs,143,1,0
+Mirror,143,1,1
+Scale,142,1,0
+Spatula,142,1,0
+Closet,136,1,0
+Toaster oven,133,1,0
+Cabinets,131,1,1
+Drain,130,1,1
+Vegetable,128,1,0
+Storage container,127,1,0
+Block,127,1,0
+Knob,125,1,0
+Sponge,122,1,1
+Remote control,118,1,1
+Car,115,1,0
+Ovens,111,1,0
+Skillet,110,1,0
+Artwork,108,1,1
+Breads,108,1,0
+Conditioner,108,1,1
+Pantry,107,1,0
+Clock,107,1,1
+Rug,107,1,1
+Spices,107,1,0
+Kitchenware,105,0,1
+Throw,105,1,0
+Coaster,105,1,0
+Appliances,104,1,0
+Teapot,103,1,1
+Strainer,103,1,0
+Tablecloth,103,1,1
+Rice cooker,102,1,0
+Spoons,102,1,0
+Blankets,99,1,0
+Pie,98,1,0
+Cushion,97,1,1
+Star,96,1,0
+Pitcher,94,1,0
+Pastry,92,1,0
+Storage containers,92,0,1
+Wall art,91,1,1
+Canister,91,1,0
+Tables,90,1,0
+Plunger,89,1,1
+Cross,87,1,0
+Air conditioner,87,1,1
+Monitor,86,0,1
+Toilet,86,1,1
+Paper towel,84,1,0
+Chairs,83,1,1
+Mixer,83,1,0
+Books,82,1,1
+Teapots,80,1,0
+Toys,79,1,1
+Clothes,77,1,0
+Shelving,77,1,1
+Bench,76,1,1
+Vacuum cleaner,76,1,0
+Baskets,75,1,0
+Carpet,75,1,1
+Gifts,74,0,1
+Trash can,74,1,1
+Lights,73,1,1
+Towel holder,73,1,1
+Shoes,73,1,1
+Fridge,71,1,0
+Doors,70,1,0
+Beds,69,1,1
+Tv stand,67,1,1
+Detergent,66,1,0
+Computer,66,1,1
+Dryer,66,1,0
+Cupboard,65,1,0
+Stool,65,1,1
+Flower,64,1,0
+Coffee mug,64,0,1
+Tree,64,1,0
+Paper towel holder,64,1,1
+Lime,64,1,0
+Comforter,63,1,0
+Tap,63,1,0
+Menu,63,1,1
+Flowers,62,1,1
+Wall mount,62,1,0
+Sofa,61,1,1
+Picture,59,1,1
+Headboard,59,1,0
+Bin,59,1,0
+Plant,58,1,1
+Card,58,1,1
+Vent,57,1,0
+Buffet,57,1,0
+Blocks,57,1,0
+Washer,56,1,0
+Tile,56,1,1
+Decanter,56,1,1
+Wine glass,55,1,0
+Salt,55,1,0
+Ottoman,54,1,1
+Dish rack,54,1,1
+Storage box,54,1,0
+Potato,53,1,0
+Gift box,53,1,1
+Shaker,53,1,0
+Dining table,53,1,1
+Bath mat,53,1,1
+Sinks,53,1,1
+Cans,53,1,0
+Wine glasses,53,0,1
+Glass jar,52,1,1
+End table,51,1,0
+Vanity,50,1,1
+Apple,50,1,0
+Pictures,50,1,1
+Quilt,50,1,1
+Wine bottle,49,1,1
+Hanger,49,1,0
+Wine rack,49,1,1
+Tissue,49,0,1
+Toothbrush,49,1,1
+Fork,48,1,0
+Shoe,47,1,0
+Kitchen counter,46,1,1
+Stools,45,1,1
+Kitchen utensils,44,1,1
+Chest,44,1,1
+Bookcase,44,1,0
+Magazine,44,1,1
+Canisters,43,1,1
+Cable,43,1,1
+Food container,42,1,0
+Napkins,42,1,1
+Corn,42,1,0
+Razor,42,1,1
+Curtains,41,1,1
+Tableware,41,1,0
+Presents,41,1,0
+Cookbook,41,1,1
+Plastic lid,40,0,1
+Bathtub,40,1,1
+Soap dish,40,1,1
+Cushions,39,1,1
+Cooktop,38,1,1
+Windows,38,1,0
+Kitchen towels,38,1,0
+Luggage,38,1,1
+Magazines,38,1,1
+Banana,38,1,0
+Coffee table,37,1,1
+Silverware,37,1,0
+Soap dispenser,37,1,1
+Saucer,36,1,0
+Frying pan,36,1,0
+Duvet,36,1,0
+Washing machine,36,1,1
+Table setting,36,1,0
+Bucket,36,1,0
+Bins,36,1,0
+Pepper,36,1,0
+Lotion,36,1,1
+Beads,35,0,1
+Apples,35,1,1
+Spice rack,34,1,0
+Washcloths,34,1,0
+Dresser,34,1,1
+Pool,34,1,0
+Rugs,34,0,1
+Canopy,34,1,0
+Decorations,34,1,1
+Forks,34,1,0
+Water bottle,34,1,1
+Kitchen sink,33,0,1
+Shampoo,33,1,1
+Cards,33,1,1
+Faucet,32,1,1
+Laptop,32,1,1
+Bookshelf,32,1,1
+Carrots,32,1,0
+Placemats,32,1,0
+Shelving unit,32,1,1
+Console,32,1,0
+Jug,31,1,0
+Side table,31,1,0
+Recliner,31,1,1
+Paper towels,30,0,1
+Hat,30,1,1
+Lemon,30,1,0
+Couch,29,1,1
+Napkin,29,1,0
+Plants,29,1,1
+Tea pot,28,1,0
+Hand towel,28,1,1
+Utensil holder,28,1,1
+Towel bar,28,1,0
+Knife block,28,1,0
+Decoration,27,1,0
+Toiletries,27,1,1
+Toothbrush holder,27,1,1
+Boat,27,1,0
+Food items,26,1,0
+Storage drawer,26,1,0
+Wine bottles,25,1,0
+Ladder,25,1,1
+Photos,25,1,1
+Strawberry,25,1,0
+Rock,25,1,0
+Photo,24,1,0
+Bedspread,24,1,1
+Lighting,24,1,0
+Phone,24,1,1
+Storage basket,24,0,1
+Kitchen appliances,24,0,1
+Candle,23,1,1
+Papers,23,0,1
+Platter,23,1,0
+Decorative pillow,23,1,0
+Cosmetics,23,1,0
+Cooking pot,23,1,1
+Lamp,23,1,1
+Faucets,23,1,0
+Coffee mugs,23,0,1
+Drawing,22,1,0
+Speakers,22,1,0
+Storage unit,22,1,0
+Bouquet,22,1,0
+Television,22,1,0
+Speaker,21,1,1
+Poster,21,1,0
+Condiment,21,1,0
+Kitchen cabinet,21,1,1
+Floor mat,21,1,0
+Island,21,1,0
+Throw blanket,21,1,0
+Bedskirt,21,0,1
+Painting,20,1,1
+Radiator,20,1,1
+Mouse,20,0,1
+Sunflower,20,1,0
+Dish soap,20,1,1
+Pepper shaker,20,1,0
+Cooking utensils,20,1,0
+Boots,20,1,0
+Glove,20,1,0
+Nightstand,19,1,1
+Stairs,19,1,0
+Tissue box,19,1,1
+Shower head,19,1,0
+Toy,19,1,1
+Block set,19,1,0
+Towel rack,18,1,1
+Storage baskets,18,1,0
+Sugar bowl,18,1,0
+Bar stool,18,1,1
+Suitcase,18,1,1
+Glass door,18,1,1
+Kitchen appliance,18,1,0
+Bar stools,18,1,1
+Glass jars,18,0,1
+Moon,18,1,0
+Fireplace,18,1,1
+Storage cabinet,18,1,0
+Keys,17,1,0
+Throw pillow,17,1,0
+Figure,17,1,0
+Socks,17,1,0
+Tea set,17,1,1
+Carriage,17,1,0
+Dvds,16,1,0
+Wastebasket,16,1,1
+Showerhead,16,1,1
+Olive oil,16,1,0
+Stars,15,1,0
+Globe,15,1,1
+Console table,15,1,0
+Fruit bowl,15,1,1
+Glass bowl,15,1,0
+Coffee pot,14,1,0
+Elephant,14,1,0
+Kitchen cabinets,14,1,1
+Shopping cart,14,1,0
+Pumpkin,14,1,0
+Backpack,14,1,1
+Teaspoons,14,1,0
+Stickers,14,1,0
+Lemons,14,1,0
+Bathroom accessories,14,0,1
+Table runner,14,1,0
+Plastic container,14,0,1
+Oranges,14,1,0
+Grapes,13,1,1
+Saddle,13,1,0
+Glass bottle,13,1,1
+Tapestry,13,1,1
+Bean bag,13,1,1
+Kitchen countertop,12,0,1
+Tool set,12,1,0
+Storage bin,12,1,0
+Coat rack,12,1,0
+Glass containers,12,0,1
+Tissue holder,12,1,0
+Vase,12,1,1
+Bath tub,12,1,0
+Step stool,12,1,1
+Cup holder,12,1,0
+Pen,12,1,0
+Washcloth,12,1,0
+Handbag,11,1,1
+Place setting,11,1,0
+Trunk,11,1,0
+Plastic bag,11,0,1
+Hats,11,1,0
+Flooring,11,1,0
+Drape,11,1,0
+Glass doors,11,1,0
+Footrest,11,1,0
+Spice jar,10,1,0
+Throw pillows,10,1,0
+Camera,10,1,0
+Spice jars,10,0,1
+Pears,10,1,0
+Decorative items,10,1,1
+Water dispenser,10,1,0
+Storage bins,10,1,0
+Telephone,10,1,1
+Cooking oil,10,1,0
+Fruit basket,10,1,0
+Stereo,10,0,1
+Lamps,10,1,0
+Hair dryer,10,1,1
+Ironing board,10,1,0
+Pants,10,1,0
+Glass pitcher,10,1,1
+Rope,10,1,0
+Rolling cart,10,1,0
+Table cloth,10,1,0
+Makeup,10,1,0
+Bath products,10,1,0
+Laundry basket,10,1,1
+Canister set,10,1,0
+Chopping board,10,1,0
+Entertainment center,10,1,1
+Candles,9,1,1
+Stocking,9,1,0
+Cooking utensil,9,1,0
+Teacups,9,1,1
+Dishcloth,9,1,0
+Printer,9,1,0
+Checkerboard,9,1,0
+Limes,9,1,0
+Dining chairs,9,1,0
+Toothpaste,9,1,0
+Cleaning supplies,9,1,0
+Waste basket,9,1,0
+Bunk bed,9,1,1
+Wardrobe,9,1,1
+Bananas,9,1,0
+Coffee grinder,9,1,0
+Barrel,8,1,0
+Bears,8,1,0
+Photographs,8,1,0
+Piano,8,1,1
+Mirrors,8,0,1
+Paper towel dispenser,8,1,0
+Shoe rack,8,1,0
+Wall cabinet,8,1,0
+Luggage rack,8,1,0
+Waterfall,8,1,0
+Dish towel,8,1,0
+Vases,8,1,1
+Shower curtain rod,8,0,1
+Glass bottles,8,1,0
+Dishrack,8,1,0
+Crib,8,1,1
+Hand soap,8,1,0
+Toilet paper,8,1,1
+Dining chair,8,1,1
+Paper holder,8,1,0
+Decorative pillows,7,1,1
+Coffee can,7,1,0
+Umbrella,7,1,0
+Pens,7,1,0
+Side chair,7,1,0
+Crayons,7,1,0
+Beam,7,1,0
+Window curtain,7,1,0
+Tent,7,1,0
+Bar of soap,7,1,0
+Orchid,7,1,1
+Glass jug,7,1,1
+Cleaning products,7,0,1
+Kitchen island,7,1,1
+Sofas,7,1,0
+Race track,7,1,0
+Broom,6,1,0
+Wreath,6,1,1
+Dishware,6,1,1
+Basin,6,1,0
+Glass shelf,6,0,1
+Wine cooler,6,1,0
+Posters,6,1,0
+Coffee cups,6,1,0
+Wall shelf,6,1,0
+Broccoli,6,1,0
+Hanging rack,6,1,0
+Urn,6,1,0
+Scrub brush,6,1,0
+Bean bag chair,6,1,0
+Building block,6,1,0
+Building blocks,6,1,0
+Plant stand,6,1,0
+Storage cart,6,1,1
+Receipt,6,1,0
+Bookshelves,6,1,0
+Calculator,5,1,0
+Map,5,1,0
+Picture frames,5,1,1
+Picture frame,5,1,1
+Jacket,5,0,1
+Red cup,5,1,0
+Comb,5,1,0
+Sign,5,1,0
+Arch,5,1,0
+Bed cover,5,1,0
+Aquarium,5,1,0
+Guitar,5,1,1
+Lobster,5,1,0
+Chalkboard,5,1,0
+Beverage glass,5,1,0
+Giraffe,5,1,0
+Footstool,5,1,0
+Binder,5,1,0
+Drinking glass,5,1,0
+Shower door,5,1,0
+Shirt,5,1,0
+Gift basket,5,1,0
+Newspaper,5,1,0
+Bathroom counter,5,0,1
+Plastic straws,4,1,0
+Plastic baskets,4,1,0
+Column,4,1,0
+Knife rack,4,1,0
+Movie poster,4,0,1
+Biscuit,4,1,0
+Football,4,1,0
+Granite top,4,1,0
+Cactus,4,1,0
+Decorative plates,4,1,1
+Sculpture,4,1,0
+Glass decanter,4,1,0
+Gas stove,4,1,1
+Cutlery holder,4,1,0
+Wall decor,4,1,1
+Orange juice,4,1,0
+Puzzle,4,1,0
+Christmas tree,4,1,1
+Ski,4,1,0
+Water heater,4,1,0
+Shutter,4,1,0
+Bed canopy,4,1,0
+Tiger,4,1,0
+Shampoo bottles,4,0,1
+Armchair,4,1,1
+Shoji screen,4,1,0
+Drapery,4,1,0
+Waste bin,4,1,0
+Electrical outlet,4,1,0
+Parsley,4,1,0
+Wall hanging,4,1,0
+Doll,4,1,1
+Easel,4,1,0
+Drawing board,3,1,0
+Wooden cabinet,3,1,0
+Activity table,3,1,0
+Alarm clock,3,1,1
+Gas burner,3,1,0
+Cot,3,1,0
+Stained glass,3,1,0
+Kitchen rug,3,1,0
+Blinds,3,1,1
+Folder,3,1,0
+Bathrobe,3,1,1
+Baseboard heater,3,0,1
+Art supplies,3,1,0
+Pillars,3,1,0
+Dried herbs,3,1,0
+Notebook,3,1,0
+Body wash,3,1,1
+Figurines,3,1,1
+Spotlight,3,1,0
+Bathmat,3,1,0
+Decorative box,3,1,1
+Stainless steel table,3,1,0
+Bedside table,3,1,1
+Rocking chair,3,1,1
+Barstools,3,1,0
+Balloon,3,1,0
+Wooden table,3,1,0
+Water glasses,3,0,1
+Photography,3,1,0
+Candle holder,3,1,1
+Kitchen faucet,2,0,1
+Puppet,2,1,0
+Water pitcher,2,1,0
+Table lamp,2,1,1
+Figurine,2,1,0
+Radio,2,1,1
+Treadmill,2,1,0
+Amplifier,2,1,0
+Wall socket,2,1,0
+Fence,2,1,0
+Hammock,2,1,0
+Fixture,2,1,0
+Hanging clothes,2,1,0
+Wooden block,2,1,0
+Wooden spoon,2,1,0
+Table decoration,2,1,0
+Decorative frame,2,1,0
+Wagon,2,1,0
+Castle,2,1,0
+Table spoon,2,1,0
+Flower pot,2,1,1
+Candlesticks,2,1,0
+Recycling bin,2,1,0
+Folded clothes,2,1,0
+Hanging plants,2,1,0
+Floor cushion,2,1,0
+Towel ring,2,0,1
+Toilet paper holder,2,1,1
+Soccer ball,2,1,0
+Decorative piece,2,1,0
+Croissant,2,1,0
+Toy storage,2,1,1
+Loft bed,2,1,0
+Sliding door,2,1,0
+Handheld shower,2,1,0
+Notepad,2,1,1
+Document,2,1,0
+Clear storage box,2,1,0
+Window treatment,2,1,1
+Maps,2,1,0
+Bicycle,2,1,0
+Swag,2,1,0
+Basket with handle,2,1,0
+Stuffed animals,2,1,1
+Lanterns,2,1,0
+Drum,2,1,0
+Kitchen equipment,2,0,1
+Flower vase,2,1,1
+Pamphlet,1,1,0
+Stone wall,1,1,0
+Wooden bar,1,1,0
+Birdcage,1,1,0
+Floral centerpiece,1,1,0
+Glass case,1,1,0
+Mask,1,1,1
+Wooden shelf,1,1,0
+Sunflowers,1,1,0
+Wall hooks,1,1,0
+Area rug,1,1,0
+Stir sticks,1,1,0
+Window seat,1,0,1
+Decorative item,1,1,1
+Candlestick,1,1,0
+Appliance stand,1,1,0
+High chair,1,1,0
+Bird cage,1,1,0
+Canopy bed,1,1,0
+Glass panel,1,1,0
+Shampoo bottle,1,0,1
+Audio equipment,1,1,0
+Condiment bottles,1,1,0
+Toy bins,1,1,0
+Potted plants,1,1,0
+Logs,1,1,1
+Knife holder,1,1,0
+Bathroom mirror,1,1,0
+Photograph,1,1,0
+Hairdryer,1,0,1
+Wall plate,1,1,0
+Bar counter,1,1,0
+Decorative figurine,1,1,0
+Basketball,1,1,0
+China cabinet,1,1,0
+Storage cubes,1,1,0
+Stained glass window,1,1,0
+Wall mirror,1,1,0
+Statue,1,1,1
+Tulips,1,1,0
+Tiling,1,1,0
+Wooden tray,1,1,1
+Wooden bench,1,1,0
+Television stand,1,1,0
+Wood stove,1,1,0
+Surfboard,1,1,0
+Salt shaker,1,1,0
+Portrait,1,1,0
+Potted plant,1,1,0
+Display case,1,1,0
+Sideboard,1,1,0
+Glass block,1,1,0
+Decorative table,1,1,0
+Gate,1,1,0
+Hood,1,1,0
+Media stand,1,1,0
+Mosquito net,1,1,0
+Planter,1,1,0
+Slippers,1,1,1
+Chest of drawers,1,1,1
+Staircase,1,1,1
+Framed artwork,1,1,1
+Ice bucket,1,1,0
+Sugar packets,1,1,1
+Mantel,1,1,0
+Toy train,1,1,0
+Cake stand,1,1,0
+Stack of napkins,1,1,0
+Railing,1,1,1
+Shower heads,1,1,0
+Stainless steel refrigerator,1,1,0
+Glass shower,1,1,0
+Barstool,1,1,0
+Game board,1,1,0
+Toy box,1,1,0
+Telescope,1,1,0
+Drums,1,1,0
+Wall decoration,1,1,0
+Candelabra,1,1,0
+Floral arrangement,1,1,0
+Drapes,1,1,0
+Decorative bowl,1,1,1
+Chandelier,1,1,1
+Candle holders,1,1,0
+Wicker basket,1,1,0
+Wheelchair,1,1,0
+Brochure,1,1,1
